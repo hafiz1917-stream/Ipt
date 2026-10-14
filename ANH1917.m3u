@@ -1,0 +1,497 @@
+#EXTM3U url-tvg="https://raw.githubusercontent.com/hafiz1917/Streaming-img/refs/heads/main/my_epg1.xml"
+#EXTINF:-1 tvg-id="iptv_001" tvg-name="TV 1" tvg-logo="http://hometv.biz.id:80/images/Ew7KWgEVPBJlBK0JSddniCSXgQUyeYTSUh135SFESvZA01taE-TsmE54UG0JXpX7zg2cfptYFZRe6sQfTK_xVA.png" group-title="- MALAYSIA -",TV 1
+http://hometv.biz.id:80/play/kGPHP1v1M9JXva4rlXf0GM0mjUWAVCikkBzO_RywTbU
+#EXTINF:-1 tvg-id="iptv_002" tvg-name="TV 2" tvg-logo="http://hometv.biz.id:80/images/Ew7KWgEVPBJlBK0JSddniCSXgQUyeYTSUh135SFESvZA01taE-TsmE54UG0JXpX7zzZHMDckmnU_kS5eMWkTzA.png" group-title="- MALAYSIA -",TV 2
+http://hometv.biz.id:80/play/kGPHP1v1M9JXva4rlXf0GIp8JGqeqjXXTHvq7AgmzPE
+#EXTINF:-1 tvg-id="iptv_003" tvg-name="TV 3" tvg-logo="http://hometv.biz.id:80/images/Ew7KWgEVPBJlBK0JSddniCSXgQUyeYTSUh135SFESvZA01taE-TsmE54UG0JXpX7m7NE5Bz5B0z6q9O7MCHN-Q.png" group-title="- MALAYSIA -",TV 3
+http://hometv.biz.id:80/play/kGPHP1v1M9JXva4rlXf0GFzDTgqsEm2fNGaOndkztIQ
+#EXTINF:-1 tvg-id="iptv_004" tvg-name="TV 8" tvg-logo="http://hometv.biz.id:80/images/Ew7KWgEVPBJlBK0JSddniCSXgQUyeYTSUh135SFESvZA01taE-TsmE54UG0JXpX785Na4n279mqQFY2wSVuvdQ.png" group-title="- MALAYSIA -",TV 8
+http://hometv.biz.id:80/play/kGPHP1v1M9JXva4rlXf0GF-a8W0uDuI4cZDM3ozjTKg
+#EXTINF:-1 tvg-id="iptv_005" tvg-name="TV 9" tvg-logo="http://hometv.biz.id:80/images/Ew7KWgEVPBJlBK0JSddniCSXgQUyeYTSUh135SFESvZA01taE-TsmE54UG0JXpX7GNnYeQwd45b1UDtp33K9ew.png" group-title="- MALAYSIA -",TV 9
+http://hometv.biz.id:80/play/kGPHP1v1M9JXva4rlXf0GDiz8emtOj4gCaKkO8AFMvg
+#EXTINF:-1 tvg-id="iptv_006" tvg-name="DRAMA HEBAT" tvg-logo="http://hometv.biz.id:80/images/Ew7KWgEVPBJlBK0JSddniCSXgQUyeYTSUh135SFESvZA01taE-TsmE54UG0JXpX7Jd21tvfzB0GUq5P5t2XTQ5F0KjwOvJmCgIbHT1SGBWc.png" group-title="- MALAYSIA -",DRAMA HEBAT
+http://hometv.biz.id:80/play/kGPHP1v1M9JXva4rlXf0GHwjR__rGnf2eaYS53DEVv0
+#EXTINF:-1 tvg-name="DRAMA HTP" tvg-logo="http://hometv.biz.id:80/images/Ew7KWgEVPBJlBK0JSddniCSXgQUyeYTSUh135SFESvZA01taE-TsmE54UG0JXpX7_x8vfeMnuf25-2Zsqaa8d0ppzJ7uvWi9nNX-28Z3H4c.png" group-title="- MALAYSIA -",DRAMA HTP
+http://hometv.biz.id:80/play/kGPHP1v1M9JXva4rlXf0GBgU-emTxKEJ1JafHR63aO0
+#EXTINF:-1 tvg-name="FILM MANTAP" tvg-logo="http://hometv.biz.id:80/images/Ew7KWgEVPBJlBK0JSddniCSXgQUyeYTSUh135SFESvZA01taE-TsmE54UG0JXpX7U0TaepNg-TX1073hWEKZlkOt5QvigEXWyrG74gq1vFU.png" group-title="- MALAYSIA -",FILM MANTAP
+http://hometv.biz.id:80/play/kGPHP1v1M9JXva4rlXf0GAWGeYXGVLkshKgU7XhBiL8
+#EXTINF:-1 tvg-id="iptv_009" tvg-name="OH MY CERIA!" tvg-logo="http://hometv.biz.id:80/images/Ew7KWgEVPBJlBK0JSddniCSXgQUyeYTSUh135SFESvZA01taE-TsmE54UG0JXpX7Jo2lCZUenFADv6KHbCuTzBfn-9QqDW2ETOGfzp_Qi0U.png" group-title="- MALAYSIA -",OH MY CERIA!
+http://hometv.biz.id:80/play/kGPHP1v1M9JXva4rlXf0GLjfRNJSWpREr8jXOcIIHXI
+#EXTINF:-1 tvg-id="iptv_010" tvg-name="TRAVEL & TASTE" tvg-logo="http://hometv.biz.id:80/images/Ew7KWgEVPBJlBK0JSddniCSXgQUyeYTSUh135SFESvZA01taE-TsmE54UG0JXpX7ba1dgePF8QWxfvG3ijfvesT4WVHVilsUauK8bsg1YrA.png" group-title="- MALAYSIA -",TRAVEL & TASTE
+http://hometv.biz.id:80/play/kGPHP1v1M9JXva4rlXf0GEpR-RpZuFQXExjAWh7BXS8
+#EXTINF:-1 tvg-id="iptv_011" tvg-name="APETITO" tvg-logo="http://hometv.biz.id:80/images/Ew7KWgEVPBJlBK0JSddniCSXgQUyeYTSUh135SFESvZA01taE-TsmE54UG0JXpX7ln2uG1qj4vGPBObAYVbzmUEqPhUm_RNd9ubMkrinMNw.png" group-title="- MALAYSIA -",APETITO
+http://hometv.biz.id:80/play/kGPHP1v1M9JXva4rlXf0GB763toLycmf_Tr6qBs7W8A
+#EXTINF:-1 tvg-id="iptv_012" tvg-name="AURA" tvg-logo="http://hometv.biz.id:80/images/Ew7KWgEVPBJlBK0JSddniCSXgQUyeYTSUh135SFESvZA01taE-TsmE54UG0JXpX72uUMyA1ybQlXwoJEM0RGjTRBXJk-Lkbl46TWx-ZrLB4.png" group-title="- MALAYSIA -",AURA
+http://hometv.biz.id:80/play/kGPHP1v1M9JXva4rlXf0GCYBTM4g_LXHC2OGlN3ocvY
+#EXTINF:-1 tvg-id="iptv_013" tvg-name="FITRAH" tvg-logo="http://hometv.biz.id:80/images/Ew7KWgEVPBJlBK0JSddniCSXgQUyeYTSUh135SFESvZA01taE-TsmE54UG0JXpX7VdsQTkj--W0lGul7TtXUMNHRTAbGAjh7fxOqEl0eIG4.png" group-title="- MALAYSIA -",FITRAH
+http://hometv.biz.id:80/play/kGPHP1v1M9JXva4rlXf0GEY5DwnNb0WDyoM5drk64Uk
+#EXTINF:-1 tvg-id="iptv_014" tvg-name="JR" tvg-logo="http://hometv.biz.id:80/images/Ew7KWgEVPBJlBK0JSddniCSXgQUyeYTSUh135SFESvZA01taE-TsmE54UG0JXpX7-MZP54xDDlrnGhIXPAmAEA.png" group-title="- MALAYSIA -",JR
+http://hometv.biz.id:80/play/kGPHP1v1M9JXva4rlXf0GFHd_QZvPBvj5XRyKRCcpgQ
+#EXTINF:-1 tvg-id="iptv_015" tvg-name="LEAD" tvg-logo="http://hometv.biz.id:80/images/Ew7KWgEVPBJlBK0JSddniCSXgQUyeYTSUh135SFESvZA01taE-TsmE54UG0JXpX7hKDl_PoqyfLolCQC_3lyxQ.png" group-title="- MALAYSIA -",LEAD
+http://hometv.biz.id:80/play/kGPHP1v1M9JXva4rlXf0GKRRCpESzkBqeNvcD4myOSk
+#EXTINF:-1 tvg-id="iptv_016" tvg-name="ROLL" tvg-logo="http://hometv.biz.id:80/images/Ew7KWgEVPBJlBK0JSddniCSXgQUyeYTSUh135SFESvZA01taE-TsmE54UG0JXpX7X5SjZDqol2Z-FH_1DkKJVA.png" group-title="- MALAYSIA -",ROLL
+http://hometv.biz.id:80/play/kGPHP1v1M9JXva4rlXf0GGY4kuprnzXyXVeepeLuJRk
+#EXTINF:-1 tvg-id="iptv_017" tvg-name="SNAP" tvg-logo="http://hometv.biz.id:80/images/Ew7KWgEVPBJlBK0JSddniCSXgQUyeYTSUh135SFESvZA01taE-TsmE54UG0JXpX7ZND4szwPF8FEiPOqQfwXLg.png" group-title="- MALAYSIA -",SNAP
+http://hometv.biz.id:80/play/kGPHP1v1M9JXva4rlXf0GGsCfPRtxqp9TtJuSSf5tMk
+#EXTINF:-1 tvg-id="iptv_018" tvg-name="RTM ASEAN" tvg-logo="http://hometv.biz.id:80/images/Ew7KWgEVPBJlBK0JSddniCSXgQUyeYTSUh135SFESvZA01taE-TsmE54UG0JXpX7qltU6PpkQtEKLZQcHKXu-Eu0YpWf5LB8rtYlaXkvYhU.png" group-title="- MALAYSIA -",RTM ASEAN
+http://hometv.biz.id:80/play/kGPHP1v1M9JXva4rlXf0GMJxN45hyNspaCSq6eAKEa4
+#EXTINF:-1 tvg-id="iptv_019" tvg-name="OKEY TV" tvg-logo="http://hometv.biz.id:80/images/Ew7KWgEVPBJlBK0JSddniCSXgQUyeYTSUh135SFESvZA01taE-TsmE54UG0JXpX7l9iVj1r4Kuk8FveO7p1ygg.png" group-title="- MALAYSIA -",OKEY TV
+http://hometv.biz.id:80/play/kGPHP1v1M9JXva4rlXf0GCUnLYVMqa1-zGWSRzqpnHE
+#EXTINF:-1 tvg-name="ASTRO WARNA" tvg-logo="http://hometv.biz.id:80/images/Ew7KWgEVPBJlBK0JSddniCSXgQUyeYTSUh135SFESvZA01taE-TsmE54UG0JXpX7CSnAaAbWaFra9DnOIfc3xA.png" group-title="- ASTRO MY -",ASTRO WARNA
+http://hometv.biz.id:80/play/kGPHP1v1M9JXva4rlXf0GCfT251cHwWLpgDl-Hm0--k
+#EXTINF:-1 tvg-name="ASTRO SENSASI" tvg-logo="http://hometv.biz.id:80/images/Ew7KWgEVPBJlBK0JSddniCSXgQUyeYTSUh135SFESvZA01taE-TsmE54UG0JXpX70cnQfYrkntbTTlKzcIzuQd1UrrlsSI6zroHEPybsehs.png" group-title="- ASTRO MY -",ASTRO SENSASI
+http://hometv.biz.id:80/play/kGPHP1v1M9JXva4rlXf0GEJGDS7mz4Z5fg7HSRn9Be8
+#EXTINF:-1 tvg-id="iptv_022" tvg-name="ASTRO OASIS" tvg-logo="http://hometv.biz.id:80/images/Ew7KWgEVPBJlBK0JSddniCSXgQUyeYTSUh135SFESvZA01taE-TsmE54UG0JXpX79CKI_NmJcr81irSyIyLmDg.png" group-title="- ASTRO MY -",ASTRO OASIS
+http://hometv.biz.id:80/play/kGPHP1v1M9JXva4rlXf0GFoaw8jUAbiXQt5pNT4eNbI
+#EXTINF:-1 tvg-id="iptv_023" tvg-name="ASTRO RANIA" tvg-logo="http://hometv.biz.id:80/images/Ew7KWgEVPBJlBK0JSddniCSXgQUyeYTSUh135SFESvZA01taE-TsmE54UG0JXpX741G93MXdh4Ol_CqtExUyig.png" group-title="- ASTRO MY -",ASTRO RANIA
+http://hometv.biz.id:80/play/kGPHP1v1M9JXva4rlXf0GAQ2b4ygoJtIPgvf_gYIST8
+#EXTINF:-1 tvg-id="iptv_024" tvg-name="ASTRO AURA" tvg-logo="http://hometv.biz.id:80/images/Ew7KWgEVPBJlBK0JSddniCSXgQUyeYTSUh135SFESvZA01taE-TsmE54UG0JXpX7R_JTP8BnNhntAmq8V67dLw.png" group-title="- ASTRO MY -",ASTRO AURA
+http://hometv.biz.id:80/play/kGPHP1v1M9JXva4rlXf0GBq9tfOIv_D7ZbkqMhrmXc0
+#EXTINF:-1 tvg-id="iptv_025" tvg-name="ASTRO CITRA" tvg-logo="http://hometv.biz.id:80/images/Ew7KWgEVPBJlBK0JSddniCSXgQUyeYTSUh135SFESvZA01taE-TsmE54UG0JXpX7NIS6Pc2Dd90xr_oDYXWgoQ.png" group-title="- ASTRO MY -",ASTRO CITRA
+http://hometv.biz.id:80/play/kGPHP1v1M9JXva4rlXf0GEDhde2PEWVVmDvjF1-ZBek
+#EXTINF:-1 tvg-id="iptv_026" tvg-name="ASTRO RIA" tvg-logo="http://hometv.biz.id:80/images/Ew7KWgEVPBJlBK0JSddniCSXgQUyeYTSUh135SFESvZA01taE-TsmE54UG0JXpX7sPvOYHBmW78EncqSwcupbQ.png" group-title="- ASTRO MY -",ASTRO RIA
+http://hometv.biz.id:80/play/kGPHP1v1M9JXva4rlXf0GLr_mXXRGWKHHIIZ_sTY-b4
+#EXTINF:-1 tvg-id="iptv_027" tvg-name="ASTRO PRIMA" tvg-logo="http://hometv.biz.id:80/images/Ew7KWgEVPBJlBK0JSddniCSXgQUyeYTSUh135SFESvZA01taE-TsmE54UG0JXpX7mcwcvUjgIuGUE8H9e7TphA.png" group-title="- ASTRO MY -",ASTRO PRIMA
+http://hometv.biz.id:80/play/kGPHP1v1M9JXva4rlXf0GBiXh-1WJmKgsS12q7m3NjM
+#EXTINF:-1 tvg-id="iptv_028" tvg-name="ASTRO CERIA" tvg-logo="http://hometv.biz.id:80/images/Ew7KWgEVPBJlBK0JSddniCSXgQUyeYTSUh135SFESvbfdeNmlgxK086DUO-GdhDcCvm8mQjb9cXh13Do_iYDm6IZ6LHPgrRHXiPN9b1IDk4.png" group-title="- ASTRO MY -",ASTRO CERIA
+http://hometv.biz.id:80/play/kGPHP1v1M9JXva4rlXf0GFIls1jrrWf9Fph-zHn92gw
+#EXTINF:-1 tvg-id="iptv_029" tvg-name="AWANI" tvg-logo="http://hometv.biz.id:80/images/Ew7KWgEVPBJlBK0JSddniCSXgQUyeYTSUh135SFESvZA01taE-TsmE54UG0JXpX7vQKaz25Tq-tr4hMQiIqaNA.png" group-title="- ASTRO MY -",AWANI
+http://hometv.biz.id:80/play/kGPHP1v1M9JXva4rlXf0GM3RuTyDIx0PU0gHFC6XSOw
+#EXTINF:-1 tvg-id="iptv_030" tvg-name="HBO" tvg-logo="http://hometv.biz.id:80/images/Ew7KWgEVPBJlBK0JSddniCSXgQUyeYTSUh135SFESvZBnIEU2s1C6cWX2s9J_y4kM_1ElBuZ5P6euLlqe7zdTg.png" group-title="- MOVIE -",HBO
+http://hometv.biz.id:80/play/kGPHP1v1M9JXva4rlXf0GBoxJkBmqWrJUv3GsJ_aRxc
+#EXTINF:-1 tvg-id="iptv_031" tvg-name="HBO HITS" tvg-logo="http://hometv.biz.id:80/images/Ew7KWgEVPBJlBK0JSddniCSXgQUyeYTSUh135SFESvZBnIEU2s1C6cWX2s9J_y4kHBCisUrZPOuR7DGUWpd6jA.png" group-title="- MOVIE -",HBO HITS
+http://hometv.biz.id:80/play/kGPHP1v1M9JXva4rlXf0GEWtHWdUf4Q4tRvpgZzJuNM
+#EXTINF:-1 tvg-id="iptv_032" tvg-name="HBO SIGN" tvg-logo="http://hometv.biz.id:80/images/Ew7KWgEVPBJlBK0JSddniCSXgQUyeYTSUh135SFESvZBnIEU2s1C6cWX2s9J_y4kNkhUwRoMQnZNMMg2owVtVycDHVLReGkYsHljy82f2r0.png" group-title="- MOVIE -",HBO SIGN
+http://hometv.biz.id:80/play/kGPHP1v1M9JXva4rlXf0GHPSax5bDlK3gBtGee4G8Qg
+#EXTINF:-1 tvg-id="iptv_033" tvg-name="HBO FAMILY" tvg-logo="http://hometv.biz.id:80/images/Ew7KWgEVPBJlBK0JSddniCSXgQUyeYTSUh135SFESvZBnIEU2s1C6cWX2s9J_y4kSN4o1NnpfH6cnY3kZaYgBeWFuwuQVaHj9EeAbuB8yDI.png" group-title="- MOVIE -",HBO FAMILY
+http://hometv.biz.id:80/play/kGPHP1v1M9JXva4rlXf0GEsfW2rXV1vfU2VtTiB_298
+#EXTINF:-1 tvg-id="iptv_034" tvg-name="CINEMAX" tvg-logo="http://hometv.biz.id:80/images/Ew7KWgEVPBJlBK0JSddniCSXgQUyeYTSUh135SFESvZBnIEU2s1C6cWX2s9J_y4kJGoapq-oENaZDsh2_74URQ.png" group-title="- MOVIE -",CINEMAX
+http://hometv.biz.id:80/play/kGPHP1v1M9JXva4rlXf0GMmiVGLT_aizIuq3806NwYE
+#EXTINF:-1 tvg-id="iptv_035" tvg-name="STUDIO UNIVERSAL" tvg-logo="http://hometv.biz.id:80/images/Ew7KWgEVPBJlBK0JSddniCSXgQUyeYTSUh135SFESvZBnIEU2s1C6cWX2s9J_y4kSH_SVK_ffa6csrx_UHUMTzNVXUgNef-GzgM_Jrs4SL8.png" group-title="- MOVIE -",STUDIO UNIVERSAL
+http://hometv.biz.id:80/play/kGPHP1v1M9JXva4rlXf0GO2M1QScTy7TSKH-0f5Ue-Y
+#EXTINF:-1 tvg-name="BIOSKOP INDONESIA" tvg-logo="http://hometv.biz.id:80/images/Ew7KWgEVPBJlBK0JSddniCSXgQUyeYTSUh135SFESvZBnIEU2s1C6cWX2s9J_y4kyrqB-6fcA0Z9ZPlXTX-p9vPlRfko34hzJe89r7HH1lQ.png" group-title="- MOVIE -",BIOSKOP INDONESIA
+http://hometv.biz.id:80/play/kGPHP1v1M9JXva4rlXf0GGF27BYA7kL-uEWCpYi1Aa8
+#EXTINF:-1 tvg-name="FLIK" tvg-logo="http://hometv.biz.id:80/images/Ew7KWgEVPBJlBK0JSddniCSXgQUyeYTSUh135SFESvZBnIEU2s1C6cWX2s9J_y4k6fw8f0Za4movy4zu_WJ8DQ.png" group-title="- MOVIE -",FLIK
+http://hometv.biz.id:80/play/kGPHP1v1M9JXva4rlXf0GMq_fa12NzppQEOID4orDB0
+#EXTINF:-1 tvg-id="iptv_038" tvg-name="IMC" tvg-logo="http://hometv.biz.id:80/images/Ew7KWgEVPBJlBK0JSddniCSXgQUyeYTSUh135SFESvZBnIEU2s1C6cWX2s9J_y4kRTcyahOKBfMFF5l0TBNGJw.png" group-title="- MOVIE -",IMC
+http://hometv.biz.id:80/play/kGPHP1v1M9JXva4rlXf0GJxvICUxu92fiLp2FF_P9JM
+#EXTINF:-1 tvg-id="iptv_039" tvg-name="WARNER TV" tvg-logo="http://hometv.biz.id:80/images/Ew7KWgEVPBJlBK0JSddniCSXgQUyeYTSUh135SFESvZBnIEU2s1C6cWX2s9J_y4k8OTGodYo4e2xPWpI-JAu-A.png" group-title="- MOVIE -",WARNER TV
+http://hometv.biz.id:80/play/kGPHP1v1M9JXva4rlXf0GNVqIj3fWPlYwse4o56gVG8
+#EXTINF:-1 tvg-id="iptv_040" tvg-name="CCM" tvg-logo="http://hometv.biz.id:80/images/Ew7KWgEVPBJlBK0JSddniCSXgQUyeYTSUh135SFESvZBnIEU2s1C6cWX2s9J_y4keKuJs4eiYs_fgOQHTUBPrQ.png" group-title="- MOVIE -",CCM
+http://hometv.biz.id:80/play/kGPHP1v1M9JXva4rlXf0GA18jsLakMKU38fwvWpMrkI
+#EXTINF:-1 tvg-id="iptv_041" tvg-name="CELESTIAL MOVIES" tvg-logo="http://hometv.biz.id:80/images/Ew7KWgEVPBJlBK0JSddniCSXgQUyeYTSUh135SFESvZBnIEU2s1C6cWX2s9J_y4kTx4o_i4zC4wNjbcz0PhxNwiPbApY6L4lwCbioqaM1lk.png" group-title="- MOVIE -",CELESTIAL MOVIES
+http://hometv.biz.id:80/play/kGPHP1v1M9JXva4rlXf0GLIccGMAEtJL129vi_Yss1I
+#EXTINF:-1 tvg-id="iptv_042" tvg-name="ZEE BIOSKOP" tvg-logo="http://hometv.biz.id:80/images/Ew7KWgEVPBJlBK0JSddniCSXgQUyeYTSUh135SFESvZBnIEU2s1C6cWX2s9J_y4km_30cn2SgwJ3RN6k4cOilZrsfq1BWon6s3x4DIL_XDw.png" group-title="- MOVIE -",ZEE BIOSKOP
+http://hometv.biz.id:80/play/kGPHP1v1M9JXva4rlXf0GEsF2HnxYzGU7kAtv49BLyA
+#EXTINF:-1 tvg-id="iptv_043" tvg-name="ROCK ACTION" tvg-logo="http://hometv.biz.id:80/images/Ew7KWgEVPBJlBK0JSddniCSXgQUyeYTSUh135SFESvZBnIEU2s1C6cWX2s9J_y4kCTE_IlSYMccuHzH1zkfci3J3wqZJpimq1kIPudEnpMw.png" group-title="- MOVIE -",ROCK ACTION
+http://hometv.biz.id:80/play/kGPHP1v1M9JXva4rlXf0GAvP8xsykSnGoTLALy4pH2Q
+#EXTINF:-1 tvg-id="iptv_044" tvg-name="ROCK ENTERTAINMENT" tvg-logo="http://hometv.biz.id:80/images/Ew7KWgEVPBJlBK0JSddniCSXgQUyeYTSUh135SFESvbB_J4vv4OiBkgbDghbif8alMEwkd-dvOOE0dH6eYYHelqbMShXpWJcPl0R5bDsFJw.png" group-title="- MOVIE -",ROCK ENTERTAINMENT
+http://hometv.biz.id:80/play/kGPHP1v1M9JXva4rlXf0GODjo7cTAQppk9DcSMw7bZM
+#EXTINF:-1 tvg-id="iptv_045" tvg-name="AXN" tvg-logo="http://hometv.biz.id:80/images/Ew7KWgEVPBJlBK0JSddniCSXgQUyeYTSUh135SFESvZBnIEU2s1C6cWX2s9J_y4k-6rdr1eitDthczRNhRz7Vg.png" group-title="- MOVIE -",AXN
+http://hometv.biz.id:80/play/kGPHP1v1M9JXva4rlXf0GO9fjDehmXxam1wzol9oYEw
+#EXTINF:-1 tvg-id="iptv_046" tvg-name="KIX" tvg-logo="http://hometv.biz.id:80/images/Ew7KWgEVPBJlBK0JSddniCSXgQUyeYTSUh135SFESvZBnIEU2s1C6cWX2s9J_y4kaQMIOJiQeAGeaPg7aTlKAQ.png" group-title="- MOVIE -",KIX
+http://hometv.biz.id:80/play/kGPHP1v1M9JXva4rlXf0GJMp0zJ_PIDliyRUdSkP580
+#EXTINF:-1 tvg-name="CINEMA WORLD" tvg-logo="http://hometv.biz.id:80/images/Ew7KWgEVPBJlBK0JSddniCSXgQUyeYTSUh135SFESvZBnIEU2s1C6cWX2s9J_y4kPMsSHRerqVtHAoQucJWkins6c2Ba1nADsV_PChNFtpU.png" group-title="- MOVIE -",CINEMA WORLD
+http://hometv.biz.id:80/play/kGPHP1v1M9JXva4rlXf0GG_h7w3LEXdc0tNBtTOq9oc
+#EXTINF:-1 tvg-id="iptv_048" tvg-name="THRILL" tvg-logo="http://hometv.biz.id:80/images/Ew7KWgEVPBJlBK0JSddniCSXgQUyeYTSUh135SFESvZBnIEU2s1C6cWX2s9J_y4kneXD7ZoHvEuDPIlWpvSPjw.png" group-title="- MOVIE -",THRILL
+http://hometv.biz.id:80/play/kGPHP1v1M9JXva4rlXf0GKlIset5dAd6vzgLLC2UgNI
+#EXTINF:-1 tvg-id="iptv_049" tvg-name="TvN MOVIES" tvg-logo="http://hometv.biz.id:80/images/Ew7KWgEVPBJlBK0JSddniCSXgQUyeYTSUh135SFESvZBnIEU2s1C6cWX2s9J_y4kBWx1KPs-2oKaK1M5KtgAvp8qVbmOMx9UqnmSS9gPvkQ.png" group-title="- MOVIE -",TvN MOVIES
+http://hometv.biz.id:80/play/kGPHP1v1M9JXva4rlXf0GMrAm0KR0k09znGbP-X-yME
+#EXTINF:-1 tvg-id="iptv_050" tvg-name="GALAXY" tvg-logo="http://hometv.biz.id:80/images/Ew7KWgEVPBJlBK0JSddniCSXgQUyeYTSUh135SFESvZBnIEU2s1C6cWX2s9J_y4kvGoUH_n1YHOblitHp7BUTg.png" group-title="- MOVIE -",GALAXY
+http://hometv.biz.id:80/play/kGPHP1v1M9JXva4rlXf0GO4o61trk-Rnta47BoU29Yk
+#EXTINF:-1 tvg-id="iptv_051" tvg-name="GALAXY PREMIUM" tvg-logo="http://hometv.biz.id:80/images/Ew7KWgEVPBJlBK0JSddniCSXgQUyeYTSUh135SFESvZBnIEU2s1C6cWX2s9J_y4kJ8shQktCfr0jXq_Hip1pZxupR0nYpfYRO38dZJnjY3s.png" group-title="- MOVIE -",GALAXY PREMIUM
+http://hometv.biz.id:80/play/kGPHP1v1M9JXva4rlXf0GJZzMOtsRVQ7N0ODzHZuKaE
+#EXTINF:-1 tvg-id="iptv_052" tvg-name="HITS" tvg-logo="http://hometv.biz.id:80/images/Ew7KWgEVPBJlBK0JSddniCSXgQUyeYTSUh135SFESvZBnIEU2s1C6cWX2s9J_y4kRn5VJQvXffCesmIQwqmvEQ.png" group-title="- MOVIE -",HITS
+http://hometv.biz.id:80/play/kGPHP1v1M9JXva4rlXf0GKbmJLozrRz_7BHukZfhuaM
+#EXTINF:-1 tvg-id="iptv_053" tvg-name="HITS MOVIES" tvg-logo="http://hometv.biz.id:80/images/Ew7KWgEVPBJlBK0JSddniCSXgQUyeYTSUh135SFESvZBnIEU2s1C6cWX2s9J_y4kclcDK6mLz-2-2XRzRXg0ML6qTWUAiDPj5r1tObuOLGQ.png" group-title="- MOVIE -",HITS MOVIES
+http://hometv.biz.id:80/play/kGPHP1v1M9JXva4rlXf0GDztW-wqft9E9vrHhgsSdQE
+#EXTINF:-1 tvg-name="3rsTV" tvg-logo="http://hometv.biz.id:80/images/rh4_j53P-J2w4y9HtylIq4iy1_CSgN6yvJCb08jHCImD7TIpL3AQHpOBRUXdJ0HpBVX_j1MB3wL1rBbMHzVQjw.png" group-title="- MOVIE ENGLISH -",3rsTV
+http://hometv.biz.id:80/play/kGPHP1v1M9JXva4rlXf0GNhoH4M15-BHKe_kKf8KUhI
+#EXTINF:-1 tvg-name="STAR MOVIES" tvg-logo="http://hometv.biz.id:80/images/Ew7KWgEVPBJlBK0JSddniCSXgQUyeYTSUh135SFESvZBnIEU2s1C6cWX2s9J_y4kQjBhPXzuGmNh82aXjEwR3wDwp6d7p3k9eRfNAl-JYUo.png" group-title="- MOVIE ENGLISH -",STAR MOVIES
+http://hometv.biz.id:80/play/kGPHP1v1M9JXva4rlXf0GF9Gfxyc5676QfsGqSMWoJc
+#EXTINF:-1 tvg-name="STAR MOVIES SELECT" tvg-logo="http://hometv.biz.id:80/images/Ew7KWgEVPBJlBK0JSddniCSXgQUyeYTSUh135SFESvZBnIEU2s1C6cWX2s9J_y4kaWoj7e2zZHsj_jATo86dXCp4NtKvxdGu0SBLlHV8vMY.png" group-title="- MOVIE ENGLISH -",STAR MOVIES SELECT
+http://hometv.biz.id:80/play/kGPHP1v1M9JXva4rlXf0GJjrnIMrMKg4aAZOAQ2N_AA
+#EXTINF:-1 tvg-name="SONY PIX" tvg-logo="http://hometv.biz.id:80/images/Ew7KWgEVPBJlBK0JSddniCSXgQUyeYTSUh135SFESvZBnIEU2s1C6cWX2s9J_y4kiPnSVh6aKpRo4262W3BGmg.png" group-title="- MOVIE ENGLISH -",SONY PIX
+http://hometv.biz.id:80/play/kGPHP1v1M9JXva4rlXf0GJ80lVbmAkTKnKeJhcb719U
+#EXTINF:-1 tvg-name="MOVIES NOW" tvg-logo="http://hometv.biz.id:80/images/Ew7KWgEVPBJlBK0JSddniCSXgQUyeYTSUh135SFESvZBnIEU2s1C6cWX2s9J_y4kdUem4VBT7LKu5kr7v5hObALr_j_Vh2QWAwtjyLBX1UE.png" group-title="- MOVIE ENGLISH -",MOVIES NOW
+http://hometv.biz.id:80/play/kGPHP1v1M9JXva4rlXf0GPo1WGjihYQsymY8962_CKo
+#EXTINF:-1 tvg-name="MNX" tvg-logo="http://hometv.biz.id:80/images/Ew7KWgEVPBJlBK0JSddniCSXgQUyeYTSUh135SFESvZBnIEU2s1C6cWX2s9J_y4kF0BtWKgUtdaDaP-XbowN5w.png" group-title="- MOVIE ENGLISH -",MNX
+http://hometv.biz.id:80/play/kGPHP1v1M9JXva4rlXf0GJT0MJ3WOd6i59yalNY3Gnc
+#EXTINF:-1 tvg-name="MN+" tvg-logo="http://hometv.biz.id:80/images/Ew7KWgEVPBJlBK0JSddniCSXgQUyeYTSUh135SFESvZBnIEU2s1C6cWX2s9J_y4kWHPGdnodByK-SJwOuB5M3w.png" group-title="- MOVIE ENGLISH -",MN+
+http://hometv.biz.id:80/play/kGPHP1v1M9JXva4rlXf0GO9wPyU7CGVBkeYDJOgh6LY
+#EXTINF:-1 tvg-id="iptv_061" tvg-name="BOO" tvg-logo="http://hometv.biz.id:80/images/Ew7KWgEVPBJlBK0JSddniCSXgQUyeYTSUh135SFESvZA01taE-TsmE54UG0JXpX7bem1m7GPH-lvtxUAlPUbvg.png" group-title="- MOVIE ENGLISH -",BOO
+http://hometv.biz.id:80/play/kGPHP1v1M9JXva4rlXf0GKo-b68YCQQsSBAxdt1T9K4
+#EXTINF:-1 tvg-name="SHOWCHASE (EN-NO SUB)" tvg-logo="http://hometv.biz.id:80/images/Ew7KWgEVPBJlBK0JSddniCSXgQUyeYTSUh135SFESvZA01taE-TsmE54UG0JXpX7I0mbUyVQ6HL_EV4NbYM8bdUewUYhwmVxsyPtaFvWtgE.png" group-title="- MOVIE ENGLISH -",SHOWCHASE (EN-NO SUB)
+http://hometv.biz.id:80/play/kGPHP1v1M9JXva4rlXf0GFcDz7P-ZAb1vxw2qvAKiXw
+#EXTINF:-1 tvg-name="CNN INTER" tvg-logo="http://hometv.biz.id:80/images/Ew7KWgEVPBJlBK0JSddniCSXgQUyeYTSUh135SFESva3HbLBeGRSeeu6BaJy28rhDFes6U8h-jsBlVA-sRVeor93WcWiKsMG_yuE5W8t8sA.png" group-title="- NEWS -",CNN INTER
+http://hometv.biz.id:80/play/kGPHP1v1M9JXva4rlXf0GMExk5fDvFRjrRWbLp6WROY
+#EXTINF:-1 tvg-name="SKY NEWS" tvg-logo="http://hometv.biz.id:80/images/Ew7KWgEVPBJlBK0JSddniCSXgQUyeYTSUh135SFESva3HbLBeGRSeeu6BaJy28rhzgpBid3LSIebLAhah8aJVQ.png" group-title="- NEWS -",SKY NEWS
+http://hometv.biz.id:80/play/kGPHP1v1M9JXva4rlXf0GJ2RgELMpsneZP4Sj7YRP6I
+#EXTINF:-1 tvg-name="SKY NEWS AU" tvg-logo="http://hometv.biz.id:80/images/Ew7KWgEVPBJlBK0JSddniCSXgQUyeYTSUh135SFESva3HbLBeGRSeeu6BaJy28rhzgpBid3LSIebLAhah8aJVQ.png" group-title="- NEWS -",SKY NEWS AU
+http://hometv.biz.id:80/play/kGPHP1v1M9JXva4rlXf0GDh5QZtAgsiJ2JI8OR-38xw
+#EXTINF:-1 tvg-id="iptv_066" tvg-name="FOX NEWS" tvg-logo="http://hometv.biz.id:80/images/Ew7KWgEVPBJlBK0JSddniCSXgQUyeYTSUh135SFESva3HbLBeGRSeeu6BaJy28rhUfdxLgaCAsDPlRO7g9tf4w.png" group-title="- NEWS -",FOX NEWS
+http://hometv.biz.id:80/play/kGPHP1v1M9JXva4rlXf0GNd1OyO3d5oQlDG7xNqP9Oc
+#EXTINF:-1 tvg-id="iptv_067" tvg-name="BBC NEWS" tvg-logo="http://hometv.biz.id:80/images/Ew7KWgEVPBJlBK0JSddniCSXgQUyeYTSUh135SFESva3HbLBeGRSeeu6BaJy28rh-lKqFfxYP-x_8poqoVH9Uw.png" group-title="- NEWS -",BBC NEWS
+http://hometv.biz.id:80/play/kGPHP1v1M9JXva4rlXf0GMKMBXe7CervF5D5FwOxK8w
+#EXTINF:-1 tvg-name="ABC NEWS AU" tvg-logo="http://hometv.biz.id:80/images/Ew7KWgEVPBJlBK0JSddniCSXgQUyeYTSUh135SFESva3HbLBeGRSeeu6BaJy28rhBhxxLZtU0b_zmE6ipBULmbGW4WAXNB3p-uhElwp7Jmw.png" group-title="- NEWS -",ABC NEWS AU
+http://hometv.biz.id:80/play/kGPHP1v1M9JXva4rlXf0GCD11AjVHl7Y4w5yMAsiQsI
+#EXTINF:-1 tvg-name="AL JAZEERA EN" tvg-logo="http://hometv.biz.id:80/images/Ew7KWgEVPBJlBK0JSddniCSXgQUyeYTSUh135SFESva3HbLBeGRSeeu6BaJy28rh4i9rfLuLmiXP8Jn2AARAkg.png" group-title="- NEWS -",AL JAZEERA EN
+http://hometv.biz.id:80/play/kGPHP1v1M9JXva4rlXf0GKP6APLnv8aH8TBrpWGEqNs
+#EXTINF:-1 tvg-id="iptv_070" tvg-name="CGTN" tvg-logo="http://hometv.biz.id:80/images/Ew7KWgEVPBJlBK0JSddniCSXgQUyeYTSUh135SFESvbB_J4vv4OiBkgbDghbif8aLX4TDgxoT3FXGfGdgBQ7D6sl35bxH5ZS6fzkJ0o47qM.png" group-title="- NEWS -",CGTN
+http://hometv.biz.id:80/play/kGPHP1v1M9JXva4rlXf0GKzLFy3twblqisJ51PiSm3w
+#EXTINF:-1 tvg-name="TV5 MONDE INFO" tvg-logo="http://hometv.biz.id:80/images/Ew7KWgEVPBJlBK0JSddniCSXgQUyeYTSUh135SFESva3HbLBeGRSeeu6BaJy28rh9m2DKRNTIdvwhQOJM0rkFA.png" group-title="- NEWS -",TV5 MONDE INFO
+http://hometv.biz.id:80/play/kGPHP1v1M9JXva4rlXf0GEJvJZXrYr1v8wsty_fTQyE
+#EXTINF:-1 tvg-name="NBC NEWS NOW" tvg-logo="http://hometv.biz.id:80/images/Ew7KWgEVPBJlBK0JSddniCSXgQUyeYTSUh135SFESva3HbLBeGRSeeu6BaJy28rhVVGsSo3ESvNdGRStxxwlgbp4DfN3-9zRfeekc9ZZ8Xs.png" group-title="- NEWS -",NBC NEWS NOW
+http://hometv.biz.id:80/play/kGPHP1v1M9JXva4rlXf0GHIhyuC0IHCWfvkydExlG2o
+#EXTINF:-1 tvg-id="iptv_073" tvg-name="RT ENGLISH" tvg-logo="http://hometv.biz.id:80/images/Ew7KWgEVPBJlBK0JSddniCSXgQUyeYTSUh135SFESva3HbLBeGRSeeu6BaJy28rhgBbpUKuE1Rwxf1AlTeM5b1tKg7cTYgu8FQdRcmtK_yg.png" group-title="- NEWS -",RT ENGLISH
+http://hometv.biz.id:80/play/kGPHP1v1M9JXva4rlXf0GJ6AWhQF97ObS7HMixxW_zs
+#EXTINF:-1 tvg-id="iptv_074" tvg-name="EURO NEWS" tvg-logo="http://hometv.biz.id:80/images/Ew7KWgEVPBJlBK0JSddniCSXgQUyeYTSUh135SFESva3HbLBeGRSeeu6BaJy28rhCgWQHRJo5hQSoLw6ZaM2zQ.png" group-title="- NEWS -",EURO NEWS
+http://hometv.biz.id:80/play/kGPHP1v1M9JXva4rlXf0GHq9wu0IY-kw3v3-b-6w0iU
+#EXTINF:-1 tvg-id="iptv_075" tvg-name="DW ENGLISH" tvg-logo="http://hometv.biz.id:80/images/Ew7KWgEVPBJlBK0JSddniCSXgQUyeYTSUh135SFESva3HbLBeGRSeeu6BaJy28rh5uQCOZFuW_SrXr4fkFr45Q.png" group-title="- NEWS -",DW ENGLISH
+http://hometv.biz.id:80/play/kGPHP1v1M9JXva4rlXf0GD-M3RLvZoPI9H124FbzVe0
+#EXTINF:-1 tvg-name="GB NEWS" tvg-logo="http://hometv.biz.id:80/images/Ew7KWgEVPBJlBK0JSddniCSXgQUyeYTSUh135SFESva3HbLBeGRSeeu6BaJy28rhoubC-JVUf6g22mXIk7SR6Q.png" group-title="- NEWS -",GB NEWS
+http://hometv.biz.id:80/play/kGPHP1v1M9JXva4rlXf0GEScivPEn9sYWzoBh4s2zhI
+#EXTINF:-1 tvg-id="iptv_077" tvg-name="FRANCE 24" tvg-logo="http://hometv.biz.id:80/images/Ew7KWgEVPBJlBK0JSddniCSXgQUyeYTSUh135SFESva3HbLBeGRSeeu6BaJy28rh_Dkhp1VhTVlxl2No6vIF1w.png" group-title="- NEWS -",FRANCE 24
+http://hometv.biz.id:80/play/kGPHP1v1M9JXva4rlXf0GHkGhoOBXv73wHiGofkl8Xk
+#EXTINF:-1 tvg-id="iptv_078" tvg-name="CNBC ASIA" tvg-logo="http://hometv.biz.id:80/images/Ew7KWgEVPBJlBK0JSddniCSXgQUyeYTSUh135SFESva3HbLBeGRSeeu6BaJy28rhFL93q6SofQ4Ivs6pmQUU7g.png" group-title="- NEWS -",CNBC ASIA
+http://hometv.biz.id:80/play/kGPHP1v1M9JXva4rlXf0GOS554_dNUJ_wnJWfmy8qnI
+#EXTINF:-1 tvg-id="iptv_079" tvg-name="BLOOMBERG" tvg-logo="http://hometv.biz.id:80/images/Ew7KWgEVPBJlBK0JSddniCSXgQUyeYTSUh135SFESva3HbLBeGRSeeu6BaJy28rhUpC__TeJUF5PBKS-AFTSUw.png" group-title="- NEWS -",BLOOMBERG
+http://hometv.biz.id:80/play/kGPHP1v1M9JXva4rlXf0GOdu-yzr53U3UlvZt5w6IRA
+#EXTINF:-1 tvg-id="iptv_080" tvg-name="CNA" tvg-logo="http://hometv.biz.id:80/images/Ew7KWgEVPBJlBK0JSddniCSXgQUyeYTSUh135SFESva3HbLBeGRSeeu6BaJy28rhwlWoaU8cBrZZQJaj8SdMFA.png" group-title="- NEWS -",CNA
+http://hometv.biz.id:80/play/kGPHP1v1M9JXva4rlXf0GAa33Cj_6JDpQ2NDUf8OhZs
+#EXTINF:-1 tvg-name="CBC NEWS" tvg-logo="http://hometv.biz.id:80/images/Ew7KWgEVPBJlBK0JSddniCSXgQUyeYTSUh135SFESva3HbLBeGRSeeu6BaJy28rhu4ueeqEnZBwCJTvYUIe04g.png" group-title="- NEWS -",CBC NEWS
+http://hometv.biz.id:80/play/kGPHP1v1M9JXva4rlXf0GBNM4KKkYlbzc62nR4P71tk
+#EXTINF:-1 tvg-id="iptv_082" tvg-name="DISCOVERY CHANNEL" tvg-logo="http://hometv.biz.id:80/images/Ew7KWgEVPBJlBK0JSddniCSXgQUyeYTSUh135SFESvYOocK4kiU9BpYf_yd1b8R5wct4Y0BmeSnffm4Qont6ED2K_fY5xOcTIa7ppp7fcZs.png" group-title="- KNOWLEDGE -",DISCOVERY CHANNEL
+http://hometv.biz.id:80/play/kGPHP1v1M9JXva4rlXf0GDX5kqzuqtMeI97xqe75EYY
+#EXTINF:-1 tvg-id="iptv_083" tvg-name="NATIONAL GEOGRAPHIC" tvg-logo="http://hometv.biz.id:80/images/Ew7KWgEVPBJlBK0JSddniCSXgQUyeYTSUh135SFESvYOocK4kiU9BpYf_yd1b8R5A-g-8nth0gjLpbCwoLK6qmN0_mPNwoZV06JNGLNxljo.png" group-title="- KNOWLEDGE -",NATIONAL GEOGRAPHIC
+http://hometv.biz.id:80/play/kGPHP1v1M9JXva4rlXf0GFP2S2CERNL0lQ4-hnpw4AI
+#EXTINF:-1 tvg-id="iptv_084" tvg-name="NAT GEO WILD" tvg-logo="http://hometv.biz.id:80/images/Ew7KWgEVPBJlBK0JSddniCSXgQUyeYTSUh135SFESvYOocK4kiU9BpYf_yd1b8R5BCHTmzkkFBn7p-A8upsyDAQYkQWQJl2kGXppTgPzHQk.png" group-title="- KNOWLEDGE -",NAT GEO WILD
+http://hometv.biz.id:80/play/kGPHP1v1M9JXva4rlXf0GCAVXoYDqlTuBTdlloQteV0
+#EXTINF:-1 tvg-id="iptv_085" tvg-name="ANIMAL PLANET" tvg-logo="http://hometv.biz.id:80/images/Ew7KWgEVPBJlBK0JSddniCSXgQUyeYTSUh135SFESvYOocK4kiU9BpYf_yd1b8R5eBDl8YVIlCopeBbMWZeVr7LA7zzlKUSb9aSVGp6MOBs.png" group-title="- KNOWLEDGE -",ANIMAL PLANET
+http://hometv.biz.id:80/play/kGPHP1v1M9JXva4rlXf0GK8_i-8UHUgwtMNN-JSsPHM
+#EXTINF:-1 tvg-id="iptv_086" tvg-name="BBC EARTH" tvg-logo="http://hometv.biz.id:80/images/Ew7KWgEVPBJlBK0JSddniCSXgQUyeYTSUh135SFESvYOocK4kiU9BpYf_yd1b8R5Mgte0dIVv6s_LxUOwKeKpIRX3PyqeS3W9Ntj_vq1Gvc.png" group-title="- KNOWLEDGE -",BBC EARTH
+http://hometv.biz.id:80/play/kGPHP1v1M9JXva4rlXf0GKXSbaKR7hfIFGVHR2Mt07Y
+#EXTINF:-1 tvg-id="iptv_087" tvg-name="LOVE NATURE" tvg-logo="http://hometv.biz.id:80/images/Ew7KWgEVPBJlBK0JSddniCSXgQUyeYTSUh135SFESvYOocK4kiU9BpYf_yd1b8R5od3BbELuzoqG6vrnGA7bqas9yJBBX4GmWXLXgYd8s7A.png" group-title="- KNOWLEDGE -",LOVE NATURE
+http://hometv.biz.id:80/play/kGPHP1v1M9JXva4rlXf0GHLuNIWnXR0ubYnr-hMCMtw
+#EXTINF:-1 tvg-id="iptv_088" tvg-name="DISCOVERY ASIA" tvg-logo="http://hometv.biz.id:80/images/Ew7KWgEVPBJlBK0JSddniCSXgQUyeYTSUh135SFESvYOocK4kiU9BpYf_yd1b8R5wct4Y0BmeSnffm4Qont6EIs3hzTP9cLH1Mf_ujOHDuY.png" group-title="- KNOWLEDGE -",DISCOVERY ASIA
+http://hometv.biz.id:80/play/kGPHP1v1M9JXva4rlXf0GDwkgj0MwyGPttF4P_bN-5Q
+#EXTINF:-1 tvg-id="iptv_089" tvg-name="CGTN DOCUMENTARY" tvg-logo="http://hometv.biz.id:80/images/Ew7KWgEVPBJlBK0JSddniCSXgQUyeYTSUh135SFESvYOocK4kiU9BpYf_yd1b8R5P1NA-NW_gcCGmci_ZuA8ECCr-0s4L9lzVLZk7hq9zbs.png" group-title="- KNOWLEDGE -",CGTN DOCUMENTARY
+http://hometv.biz.id:80/play/kGPHP1v1M9JXva4rlXf0GOel0UsbWJzGmLy2hfxgv1Q
+#EXTINF:-1 tvg-name="WILD PLANET" tvg-logo="http://hometv.biz.id:80/images/Ew7KWgEVPBJlBK0JSddniCSXgQUyeYTSUh135SFESvYOocK4kiU9BpYf_yd1b8R5PxfjVrZ1q3LyCGrZFilzRE4tD77lv-xnddazmufykJA.png" group-title="- KNOWLEDGE -",WILD PLANET
+http://hometv.biz.id:80/play/kGPHP1v1M9JXva4rlXf0GIe3y8jrhMlZ_WAVUd5Bq04
+#EXTINF:-1 tvg-name="ADVENTURE EARTH" tvg-logo="http://hometv.biz.id:80/images/Ew7KWgEVPBJlBK0JSddniCSXgQUyeYTSUh135SFESvYOocK4kiU9BpYf_yd1b8R5_hNj9oEraNuDu0DHbz2yicKlKS22C2q79hWQ5qF74RM.png" group-title="- KNOWLEDGE -",ADVENTURE EARTH
+http://hometv.biz.id:80/play/kGPHP1v1M9JXva4rlXf0GLjnaMFuEPjnXE5PCSdL-6Q
+#EXTINF:-1 tvg-name="INWILD" tvg-logo="http://hometv.biz.id:80/images/Ew7KWgEVPBJlBK0JSddniCSXgQUyeYTSUh135SFESvYOocK4kiU9BpYf_yd1b8R5j1mQqJPDkO6Jc0Fg3D2Ob7m5DruP6QjSxQgVYjcMg6Y.png" group-title="- KNOWLEDGE -",INWILD
+http://hometv.biz.id:80/play/kGPHP1v1M9JXva4rlXf0GBtuw2ILd5ityY05yri9gas
+#EXTINF:-1 tvg-name="WILD EARTH" tvg-logo="http://hometv.biz.id:80/images/Ew7KWgEVPBJlBK0JSddniCSXgQUyeYTSUh135SFESvYOocK4kiU9BpYf_yd1b8R5twHKLFpgjpMYtTJ74RHt8rkCNErBoE9kOy9ZXyz-1HA.png" group-title="- KNOWLEDGE -",WILD EARTH
+http://hometv.biz.id:80/play/kGPHP1v1M9JXva4rlXf0GARkQINM8TiFvl5bwWndQCo
+#EXTINF:-1 tvg-name="DUNIA LAIN" tvg-logo="http://hometv.biz.id:80/images/Ew7KWgEVPBJlBK0JSddniCSXgQUyeYTSUh135SFESvbB_J4vv4OiBkgbDghbif8aomTPSbMToZD-b3ERf9VLG0771OEJDGh8ztgro-5PACo.png" group-title="- ENTERTAINMENT -",DUNIA LAIN
+http://hometv.biz.id:80/play/kGPHP1v1M9JXva4rlXf0GEGcMNFegO_dVsWh87CVjjU
+#EXTINF:-1 tvg-id="iptv_095" tvg-name="K PLUS" tvg-logo="http://hometv.biz.id:80/images/Ew7KWgEVPBJlBK0JSddniCSXgQUyeYTSUh135SFESvbB_J4vv4OiBkgbDghbif8a1CRvBYhqz6csL4aaTKvd5a_R0F18pJT1Jtw8Z_qmel4.png" group-title="- ENTERTAINMENT -",K PLUS
+http://hometv.biz.id:80/play/kGPHP1v1M9JXva4rlXf0GE4y3mI0KB4tGqt7J2LbiJE
+#EXTINF:-1 tvg-id="iptv_096" tvg-name="ZEE TV" tvg-logo="http://hometv.biz.id:80/images/Ew7KWgEVPBJlBK0JSddniCSXgQUyeYTSUh135SFESvbB_J4vv4OiBkgbDghbif8aE6M_mwswTPnPd6pIvVsi7bz-SiwSlGO9xkE7Scubz8M.png" group-title="- ENTERTAINMENT -",ZEE TV
+http://hometv.biz.id:80/play/kGPHP1v1M9JXva4rlXf0GIDid3Ih35usnn-afNv7ngU
+#EXTINF:-1 tvg-id="iptv_097" tvg-name="TvN" tvg-logo="http://hometv.biz.id:80/images/Ew7KWgEVPBJlBK0JSddniCSXgQUyeYTSUh135SFESvbB_J4vv4OiBkgbDghbif8aUKkBrokUWt9scOcJ9ownYPR-9LRKiH0IvNX2bcO26n8.png" group-title="- ENTERTAINMENT -",TvN
+http://hometv.biz.id:80/play/kGPHP1v1M9JXva4rlXf0GPoXiWuIwAZDOBgd6TggmVw
+#EXTINF:-1 tvg-id="iptv_098" tvg-name="LIFETIME" tvg-logo="http://hometv.biz.id:80/images/Ew7KWgEVPBJlBK0JSddniCSXgQUyeYTSUh135SFESvZVGKa_WXlY1pFKTPGwdF1ffU5U3g6Xx4j_5loetX8jWZgSj9ldCZa9h4JWYSc2rnk.png" group-title="- ENTERTAINMENT -",LIFETIME
+http://hometv.biz.id:80/play/kGPHP1v1M9JXva4rlXf0GPzBfscDEhYxyAUkfKAbk1k
+#EXTINF:-1 tvg-name="CITRA DRAMA" tvg-logo="http://hometv.biz.id:80/images/Ew7KWgEVPBJlBK0JSddniCSXgQUyeYTSUh135SFESvbB_J4vv4OiBkgbDghbif8aUoIf-BePUC4vXQBnRyfvZVKkRAEm5stV19E_dEcM2yA.png" group-title="- ENTERTAINMENT -",CITRA DRAMA
+http://hometv.biz.id:80/play/kGPHP1v1M9JXva4rlXf0GEahzkKEda7nhFTNbJCd3hE
+#EXTINF:-1 tvg-name="CITRA ENTERTAINMENT" tvg-logo="http://hometv.biz.id:80/images/Ew7KWgEVPBJlBK0JSddniCSXgQUyeYTSUh135SFESvbB_J4vv4OiBkgbDghbif8aUoIf-BePUC4vXQBnRyfvZTWPkZz1fz2Br5ocevizpW0.png" group-title="- ENTERTAINMENT -",CITRA ENTERTAINMENT
+http://hometv.biz.id:80/play/kGPHP1v1M9JXva4rlXf0GNjzmYi3mXa0m1pSqe5usUg
+#EXTINF:-1 tvg-name="TV5 MONDE" tvg-logo="http://hometv.biz.id:80/images/Ew7KWgEVPBJlBK0JSddniCSXgQUyeYTSUh135SFESvbB_J4vv4OiBkgbDghbif8aLVlgiVkX3d27CgBzPMArdYaftwM-vYEHQqVrjG-q2GU.png" group-title="- ENTERTAINMENT -",TV5 MONDE
+http://hometv.biz.id:80/play/kGPHP1v1M9JXva4rlXf0GJR7SwJjzxmMWIUSjPNpZK4
+#EXTINF:-1 tvg-id="iptv_102" tvg-name="ABC AUSTRALIA" tvg-logo="http://hometv.biz.id:80/images/Ew7KWgEVPBJlBK0JSddniCSXgQUyeYTSUh135SFESvbB_J4vv4OiBkgbDghbif8aMsN5RLTVR-J_WjXwmlLoGpuyU7ZetglI3UvK1jFH-Cs.png" group-title="- ENTERTAINMENT -",ABC AUSTRALIA
+http://hometv.biz.id:80/play/kGPHP1v1M9JXva4rlXf0GAtADFfFaOnETqWQU0H29hA
+#EXTINF:-1 tvg-name="E! ENTERTAINMENT" tvg-logo="http://hometv.biz.id:80/images/Ew7KWgEVPBJlBK0JSddniCSXgQUyeYTSUh135SFESvbB_J4vv4OiBkgbDghbif8atSjCk6X1vL5F0NoHuCAInXI0aqV3XShWtjLsGE2C9s8.png" group-title="- ENTERTAINMENT -",E! ENTERTAINMENT
+http://hometv.biz.id:80/play/kGPHP1v1M9JXva4rlXf0GK_WCViw8DO3bq4WQQzS368
+#EXTINF:-1 tvg-id="iptv_104" tvg-name="NHK WORLD" tvg-logo="http://hometv.biz.id:80/images/Ew7KWgEVPBJlBK0JSddniCSXgQUyeYTSUh135SFESvbB_J4vv4OiBkgbDghbif8aKF73TfSbXdFhynmw7gDcJebYcGwNXcr7r9fCjZ-FlUM.png" group-title="- ENTERTAINMENT -",NHK WORLD
+http://hometv.biz.id:80/play/kGPHP1v1M9JXva4rlXf0GGPC9KEEAcq5Dgcdi_WoTnk
+#EXTINF:-1 tvg-id="iptv_105" tvg-name="NHK WORLD PREMIUM" tvg-logo="http://hometv.biz.id:80/images/Ew7KWgEVPBJlBK0JSddniCSXgQUyeYTSUh135SFESvbB_J4vv4OiBkgbDghbif8adWogq0-iNnwKs1BV8RcCG6Uh9QZiocjS6R5Nkfezub8.png" group-title="- ENTERTAINMENT -",NHK WORLD PREMIUM
+http://hometv.biz.id:80/play/kGPHP1v1M9JXva4rlXf0GPPGDBHGPj39rMNJ-JZnPks
+#EXTINF:-1 tvg-id="iptv_106" tvg-name="KBS WORLD" tvg-logo="http://hometv.biz.id:80/images/Ew7KWgEVPBJlBK0JSddniCSXgQUyeYTSUh135SFESvbB_J4vv4OiBkgbDghbif8aIo4a7bzrwmSigG5v6_z9WYSlTt8qnv4o6OP8evMZduM.png" group-title="- ENTERTAINMENT -",KBS WORLD
+http://hometv.biz.id:80/play/kGPHP1v1M9JXva4rlXf0GD3RhDh2ZoGpahzWgTPqitA
+#EXTINF:-1 tvg-id="iptv_107" tvg-name="ARIRANG" tvg-logo="http://hometv.biz.id:80/images/Ew7KWgEVPBJlBK0JSddniCSXgQUyeYTSUh135SFESvbB_J4vv4OiBkgbDghbif8a96DUe85Tw6mM12Nr1K1byanPPi8ZaMB2EUFqARSkc2E.png" group-title="- ENTERTAINMENT -",ARIRANG
+http://hometv.biz.id:80/play/kGPHP1v1M9JXva4rlXf0GLS8gY70dLDgBIF5q5CAE44
+#EXTINF:-1 tvg-name="AMERICA'S GOT TALENT" tvg-logo="http://hometv.biz.id:80/images/Ew7KWgEVPBJlBK0JSddniCSXgQUyeYTSUh135SFESvbB_J4vv4OiBkgbDghbif8a17wbWca58si2b4RxQhLQjln_bUMF7uYu7iGJzBsZ9Tw.png" group-title="- ENTERTAINMENT -",AMERICA'S GOT TALENT
+http://hometv.biz.id:80/play/kGPHP1v1M9JXva4rlXf0GLh1n0e0OA6tVhyDFBkWpJA
+#EXTINF:-1 tvg-name="AMERICAN IDOL" tvg-logo="http://hometv.biz.id:80/images/Ew7KWgEVPBJlBK0JSddniCSXgQUyeYTSUh135SFESvbB_J4vv4OiBkgbDghbif8arRHjt7paPZe0UyCn9p_YiR6rLhca6VoKv445C_69_dQ.png" group-title="- ENTERTAINMENT -",AMERICAN IDOL
+http://hometv.biz.id:80/play/kGPHP1v1M9JXva4rlXf0GLI-fQvCWAxHHr8OskATC1E
+#EXTINF:-1 tvg-name="SURVIVOR" tvg-logo="http://hometv.biz.id:80/images/Ew7KWgEVPBJlBK0JSddniCSXgQUyeYTSUh135SFESvbB_J4vv4OiBkgbDghbif8aHhUyR8jOQlh967812iD3vWm7w9pdJxLIbAeFbxwv5M0.png" group-title="- ENTERTAINMENT -",SURVIVOR
+http://hometv.biz.id:80/play/kGPHP1v1M9JXva4rlXf0GCRhfAjH-xksiuHQqZ9T_nE
+#EXTINF:-1 tvg-name="FEAR FACTOR" tvg-logo="http://hometv.biz.id:80/images/Ew7KWgEVPBJlBK0JSddniCSXgQUyeYTSUh135SFESvbB_J4vv4OiBkgbDghbif8adt8CmTgtysf70PokwzvmX_e2V1869rjtcmhnyigORVE.png" group-title="- ENTERTAINMENT -",FEAR FACTOR
+http://hometv.biz.id:80/play/kGPHP1v1M9JXva4rlXf0GK7YkHptr7xHcrX1wvuzu3Y
+#EXTINF:-1 tvg-name="VTV (ID)" tvg-logo="http://hometv.biz.id:80/images/Ew7KWgEVPBJlBK0JSddniCSXgQUyeYTSUh135SFESvbiziO7FndHuS-l2338RtDqfV4bR5Z0UqUF_VB2Ztw6-Q.png" group-title="- KIDS -",VTV (ID)
+http://hometv.biz.id:80/play/kGPHP1v1M9JXva4rlXf0GBYQ-qxejrKVbEx-JJEA4T4
+#EXTINF:-1 tvg-name="MENTARI TV (ID)" tvg-logo="http://hometv.biz.id:80/images/Ew7KWgEVPBJlBK0JSddniCSXgQUyeYTSUh135SFESvbfdeNmlgxK086DUO-GdhDc7Iz3R6JgMaskiRtJe9gtMA.png" group-title="- KIDS -",MENTARI TV (ID)
+http://hometv.biz.id:80/play/kGPHP1v1M9JXva4rlXf0GBqm-3IqUlnz0DIOX4KmvgE
+#EXTINF:-1 tvg-id="iptv_114" tvg-name="NICK JR (ID)" tvg-logo="http://hometv.biz.id:80/images/Ew7KWgEVPBJlBK0JSddniCSXgQUyeYTSUh135SFESvbfdeNmlgxK086DUO-GdhDcUvvtz58HyUwxERN7eFcmDQ.png" group-title="- KIDS -",NICK JR (ID)
+http://hometv.biz.id:80/play/kGPHP1v1M9JXva4rlXf0GIDp-OoM_HCNxrSJ3-XgSHA
+#EXTINF:-1 tvg-id="iptv_115" tvg-name="NICKELODEON (ID)" tvg-logo="http://hometv.biz.id:80/images/Ew7KWgEVPBJlBK0JSddniCSXgQUyeYTSUh135SFESvbfdeNmlgxK086DUO-GdhDcCceBV0rxKSqBhdJOP8PmALD2wcXAIdlk2hKOgYxAiTM.png" group-title="- KIDS -",NICKELODEON (ID)
+http://hometv.biz.id:80/play/kGPHP1v1M9JXva4rlXf0GFN1oaFBXBFQztn-q1rivIA
+#EXTINF:-1 tvg-id="iptv_116" tvg-name="DREAMWORKS (ID)" tvg-logo="http://hometv.biz.id:80/images/Ew7KWgEVPBJlBK0JSddniCSXgQUyeYTSUh135SFESvbfdeNmlgxK086DUO-GdhDcbrmfIh1efIx20YCvDMYM2iQscS3LuRzZeZ2KK4ay3Pc.png" group-title="- KIDS -",DREAMWORKS (ID)
+http://hometv.biz.id:80/play/kGPHP1v1M9JXva4rlXf0GMEE8n9wmY97zFFT3V258dc
+#EXTINF:-1 tvg-name="HOREE (ID)" tvg-logo="http://hometv.biz.id:80/images/Ew7KWgEVPBJlBK0JSddniCSXgQUyeYTSUh135SFESvbfdeNmlgxK086DUO-GdhDc5fC5oCgHWlcT1tuGnGaYrg.png" group-title="- KIDS -",HOREE (ID)
+http://hometv.biz.id:80/play/kGPHP1v1M9JXva4rlXf0GKNqPIHbVcHQF0Ox5RrrHLI
+#EXTINF:-1 tvg-name="ANIPLUS (ID)" tvg-logo="http://hometv.biz.id:80/images/Ew7KWgEVPBJlBK0JSddniCSXgQUyeYTSUh135SFESvbfdeNmlgxK086DUO-GdhDcNmI4Q-R2d7yXPiGs26TrDw.png" group-title="- KIDS -",ANIPLUS (ID)
+http://hometv.biz.id:80/play/kGPHP1v1M9JXva4rlXf0GE5z0QiE7K4Po5zvr4qTrYI
+#EXTINF:-1 tvg-id="iptv_119" tvg-name="ANIMAX (ID)" tvg-logo="http://hometv.biz.id:80/images/Ew7KWgEVPBJlBK0JSddniCSXgQUyeYTSUh135SFESvbfdeNmlgxK086DUO-GdhDc62c7ZnAEbx50cxHHpQtRGg.png" group-title="- KIDS -",ANIMAX (ID)
+http://hometv.biz.id:80/play/kGPHP1v1M9JXva4rlXf0GNx_55LAWopin-wOFJGmz2U
+#EXTINF:-1 tvg-name="CARTOON NETWORK (EN)" tvg-logo="http://hometv.biz.id:80/images/Ew7KWgEVPBJlBK0JSddniCSXgQUyeYTSUh135SFESvbfdeNmlgxK086DUO-GdhDcjo48p6lhkgV6EnAvedgyjB3WXSJHoJ88wcHc5XI3SNw.png" group-title="- KIDS -",CARTOON NETWORK (EN)
+http://hometv.biz.id:80/play/kGPHP1v1M9JXva4rlXf0GGvm6aj8-XMoiaGmDzKMZ2Y
+#EXTINF:-1 tvg-name="PLANET FUN (EN)" tvg-logo="http://hometv.biz.id:80/images/Ew7KWgEVPBJlBK0JSddniCSXgQUyeYTSUh135SFESvbfdeNmlgxK086DUO-GdhDc3K3_3DaeiiSaVKorlxVdEtc1IneZ4NcZCSaHWhEhaGQ.png" group-title="- KIDS -",PLANET FUN (EN)
+http://hometv.biz.id:80/play/kGPHP1v1M9JXva4rlXf0GB4JwAtbaEokWzh56j41cYU
+#EXTINF:-1 tvg-name="CARTOONITO (EN)" tvg-logo="http://hometv.biz.id:80/images/Ew7KWgEVPBJlBK0JSddniCSXgQUyeYTSUh135SFESvbfdeNmlgxK086DUO-GdhDc6qvA_Lp47pas1jAkTpGwyf77Mlfpj6wnbP11XJaYMVE.png" group-title="- KIDS -",CARTOONITO (EN)
+http://hometv.biz.id:80/play/kGPHP1v1M9JXva4rlXf0GE-aG0D8_4t8jXCavpvFY0g
+#EXTINF:-1 tvg-name="MOONBUG (EN)" tvg-logo="http://hometv.biz.id:80/images/Ew7KWgEVPBJlBK0JSddniCSXgQUyeYTSUh135SFESvbfdeNmlgxK086DUO-GdhDcRPAiZSvwXUmtQowBx7uRIQ.png" group-title="- KIDS -",MOONBUG (EN)
+http://hometv.biz.id:80/play/kGPHP1v1M9JXva4rlXf0GPEThM3LUh8bMsZ2UMJwfWc
+#EXTINF:-1 tvg-name="ZOOMOO (EN)" tvg-logo="http://hometv.biz.id:80/images/Ew7KWgEVPBJlBK0JSddniCSXgQUyeYTSUh135SFESvbfdeNmlgxK086DUO-GdhDcwl_Bljul7tUcMkdQaB2NPQ.png" group-title="- KIDS -",ZOOMOO (EN)
+http://hometv.biz.id:80/play/kGPHP1v1M9JXva4rlXf0GG3TeJJ4Ru4HkwEn4h3hH40
+#EXTINF:-1 tvg-name="CBEEBIES (EN)" tvg-logo="http://hometv.biz.id:80/images/Ew7KWgEVPBJlBK0JSddniCSXgQUyeYTSUh135SFESvbfdeNmlgxK086DUO-GdhDcBwIzK3zPCWodjQsAnAYdzA.png" group-title="- KIDS -",CBEEBIES (EN)
+http://hometv.biz.id:80/play/kGPHP1v1M9JXva4rlXf0GFA8nW2L1GqNRJVWcCSi0Fc
+#EXTINF:-1 tvg-name="DUCK TV (EN)" tvg-logo="http://hometv.biz.id:80/images/Ew7KWgEVPBJlBK0JSddniCSXgQUyeYTSUh135SFESvbfdeNmlgxK086DUO-GdhDczuhYtN9eZuDKQR_hJ9n7zg.png" group-title="- KIDS -",DUCK TV (EN)
+http://hometv.biz.id:80/play/kGPHP1v1M9JXva4rlXf0GHrNc9T7tfh7fF6dcPGdhRA
+#EXTINF:-1 tvg-name="MASHA & BEAR (EN)" tvg-logo="http://hometv.biz.id:80/images/Ew7KWgEVPBJlBK0JSddniCSXgQUyeYTSUh135SFESvbfdeNmlgxK086DUO-GdhDclCR6ttVW6Av5X_yybepdJg.png" group-title="- KIDS -",MASHA & BEAR (EN)
+http://hometv.biz.id:80/play/kGPHP1v1M9JXva4rlXf0GB4ubRTg6sfX8VzWo9L392k
+#EXTINF:-1 tvg-id="iptv_128" tvg-name="HGTV" tvg-logo="http://hometv.biz.id:80/images/Ew7KWgEVPBJlBK0JSddniCSXgQUyeYTSUh135SFESvZVGKa_WXlY1pFKTPGwdF1f1GgfAvs-lvmmnh8U586tsg.png" group-title="- LIFESTYLE -",HGTV
+http://hometv.biz.id:80/play/kGPHP1v1M9JXva4rlXf0GOuOIdZIJZ-4vcYd5qDm_kQ
+#EXTINF:-1 tvg-id="iptv_129" tvg-name="TLC" tvg-logo="http://hometv.biz.id:80/images/Ew7KWgEVPBJlBK0JSddniCSXgQUyeYTSUh135SFESvZVGKa_WXlY1pFKTPGwdF1feNrmsPrGfFcjjMuXKxIYiA.png" group-title="- LIFESTYLE -",TLC
+http://hometv.biz.id:80/play/kGPHP1v1M9JXva4rlXf0GKq0HTMBzvlBsKPXOIPuKk0
+#EXTINF:-1 tvg-id="iptv_130" tvg-name="AFN" tvg-logo="http://hometv.biz.id:80/images/Ew7KWgEVPBJlBK0JSddniCSXgQUyeYTSUh135SFESvZVGKa_WXlY1pFKTPGwdF1fvsed_ygW5EYyZyS16YlZCQ.png" group-title="- LIFESTYLE -",AFN
+http://hometv.biz.id:80/play/kGPHP1v1M9JXva4rlXf0GEQOrKUEnR5zCMyWtsP3-oY
+#EXTINF:-1 tvg-id="iptv_131" tvg-name="FOOD NETWORK" tvg-logo="http://hometv.biz.id:80/images/Ew7KWgEVPBJlBK0JSddniCSXgQUyeYTSUh135SFESvZVGKa_WXlY1pFKTPGwdF1f7-5hu8l-qx0luycM7XPXGcrki1nrPCTP_Q3R7BIQE5c.png" group-title="- LIFESTYLE -",FOOD NETWORK
+http://hometv.biz.id:80/play/kGPHP1v1M9JXva4rlXf0GC0feucpHTbF03Pu6SuDuww
+#EXTINF:-1 tvg-id="iptv_132" tvg-name="BBC LIFESTYLE" tvg-logo="http://hometv.biz.id:80/images/Ew7KWgEVPBJlBK0JSddniCSXgQUyeYTSUh135SFESvZVGKa_WXlY1pFKTPGwdF1fTjOknwoxsbhpuVIDe4ZhuL4VPNg7l5dcrOuEF5pHHN0.png" group-title="- LIFESTYLE -",BBC LIFESTYLE
+http://hometv.biz.id:80/play/kGPHP1v1M9JXva4rlXf0GI2ZBtFw90vzQqCh_sU2yjY
+#EXTINF:-1 tvg-id="iptv_133" tvg-name="FASHION TV" tvg-logo="http://hometv.biz.id:80/images/Ew7KWgEVPBJlBK0JSddniCSXgQUyeYTSUh135SFESvZVGKa_WXlY1pFKTPGwdF1ffY3lhJ_dOF9iXr61LJZ1v-ub8yHuumlf-ayhcibjV5I.png" group-title="- LIFESTYLE -",FASHION TV
+http://hometv.biz.id:80/play/kGPHP1v1M9JXva4rlXf0GCLNr2XykOIIwdeYq1bOO6s
+#EXTINF:-1 tvg-name="FASHION MIDNIGHT" tvg-logo="http://hometv.biz.id:80/images/Ew7KWgEVPBJlBK0JSddniCSXgQUyeYTSUh135SFESvZVGKa_WXlY1pFKTPGwdF1f6bMKUWTDlWBL98SwEXdUcLS15OKQq6CzEzO7hiZdq1I.png" group-title="- LIFESTYLE -",FASHION MIDNIGHT
+http://hometv.biz.id:80/play/kGPHP1v1M9JXva4rlXf0GB-BPUfrJJZ9XqD8mCIsLkM
+#EXTINF:-1 tvg-name="MIAMI FASHION" tvg-logo="http://hometv.biz.id:80/images/Ew7KWgEVPBJlBK0JSddniCSXgQUyeYTSUh135SFESvZVGKa_WXlY1pFKTPGwdF1f6sD06X0De6x7uQ44bEvN1Lh4SUCTH-po2FzQ-4Gppjw.png" group-title="- LIFESTYLE -",MIAMI FASHION
+http://hometv.biz.id:80/play/kGPHP1v1M9JXva4rlXf0GL7gcP-9UXARqeDt0RkEsXM
+#EXTINF:-1 tvg-name="CHINA TRAVEL" tvg-logo="http://hometv.biz.id:80/images/gv5KtIdO4bDLHkFfFjqO5_xD9bwXvAsFYcEqqszpbltTdkxwVYl_ZSyojYOh5vhlAVdZXwG6_vxQHpc2h8oQUg.png" group-title="- LIFESTYLE -",CHINA TRAVEL
+http://hometv.biz.id:80/play/kGPHP1v1M9JXva4rlXf0GI72zoNwesW3k1F9zLQh28g
+#EXTINF:-1 tvg-name="TV5 MONDE STYLE" tvg-logo="http://hometv.biz.id:80/images/GU9mUyzmuQTC74lnkhLmxVVYfRTa33ZoNWcV87axRRAkdDmvqz9DgjiuOsNO1-4FPtk0zWxOLoEehzpHWcDUvfEYcz9Z1zkoIwI0h0FxdVoDuYkg4C0WtLShuJ7MpR6FvnsQSxOaSY3j_36sluvuUxXNmqfo467yM6gakH2RluuxdGLt6xz10Kuww0UU9Qwy.png" group-title="- LIFESTYLE -",TV5 MONDE STYLE
+http://hometv.biz.id:80/play/kGPHP1v1M9JXva4rlXf0GN6_wnUMq7hTUvFIM9tY86A
+#EXTINF:-1 tvg-name="HOMEFUL" tvg-logo="http://hometv.biz.id:80/images/Ew7KWgEVPBJlBK0JSddniCSXgQUyeYTSUh135SFESvZVGKa_WXlY1pFKTPGwdF1fmz4QNyGguLS4rXQ3EIWYqFZPTvfxdr-Tv_4Q2-PIjbU.png" group-title="- LIFESTYLE -",HOMEFUL
+http://hometv.biz.id:80/play/kGPHP1v1M9JXva4rlXf0GMokD3cdxvsn_vw3lx7pxLQ
+#EXTINF:-1 tvg-name="NBC LX HOME" tvg-logo="http://hometv.biz.id:80/images/Ew7KWgEVPBJlBK0JSddniCSXgQUyeYTSUh135SFESvZVGKa_WXlY1pFKTPGwdF1fdXC95iCNZwbhyF-Bpi61j4vvYuQY0B9xAVvwxKXU5qQ.png" group-title="- LIFESTYLE -",NBC LX HOME
+http://hometv.biz.id:80/play/kGPHP1v1M9JXva4rlXf0GKH7NSGeIuC51U4YLgQqjPw
+#EXTINF:-1 tvg-name="THE DESIGN NETWORK" tvg-logo="http://hometv.biz.id:80/images/Ew7KWgEVPBJlBK0JSddniCSXgQUyeYTSUh135SFESvZVGKa_WXlY1pFKTPGwdF1f7d4kofn4xcLBzGyGRqbPALx9YOxXFsTWFaV2ZPkC8cQ.png" group-title="- LIFESTYLE -",THE DESIGN NETWORK
+http://hometv.biz.id:80/play/kGPHP1v1M9JXva4rlXf0GKYZ6t2IiH2guBj7DwWd_rg
+#EXTINF:-1 tvg-id="iptv_141" tvg-name="HISTORY" tvg-logo="http://hometv.biz.id:80/images/Ew7KWgEVPBJlBK0JSddniCSXgQUyeYTSUh135SFESvY5Azxix7EZrz4nRuimLTdCNnJIz0h6WQiz_GMbzXqvJkcWikvrL5HEhaCBDzdTVRw.png" group-title="- HISTORY -",HISTORY
+http://hometv.biz.id:80/play/kGPHP1v1M9JXva4rlXf0GJBti1JUMFzXnXJ-gprgsXo
+#EXTINF:-1 tvg-name="HISTORY & WARFARE" tvg-logo="http://hometv.biz.id:80/images/Ew7KWgEVPBJlBK0JSddniCSXgQUyeYTSUh135SFESvY5Azxix7EZrz4nRuimLTdCtCUOQlpmuxmLXJOc-SXAveYej6mrw2uE_-twUCVsN2M.png" group-title="- HISTORY -",HISTORY & WARFARE
+http://hometv.biz.id:80/play/kGPHP1v1M9JXva4rlXf0GPoCqsPsrrPvAxm1Y4lV2N0
+#EXTINF:-1 tvg-name="TRUE HISTORY" tvg-logo="http://hometv.biz.id:80/images/Ew7KWgEVPBJlBK0JSddniCSXgQUyeYTSUh135SFESvY5Azxix7EZrz4nRuimLTdC61f_D6Ei-UPUTLiOBE60rJf8cVpN7ayTgoWuseYrmjo.png" group-title="- HISTORY -",TRUE HISTORY
+http://hometv.biz.id:80/play/kGPHP1v1M9JXva4rlXf0GCJpTaqUAA3KEzxcYIZh2Zo
+#EXTINF:-1 tvg-name="HISTORY HUNTERS" tvg-logo="http://hometv.biz.id:80/images/Ew7KWgEVPBJlBK0JSddniCSXgQUyeYTSUh135SFESvY5Azxix7EZrz4nRuimLTdCw91eujcBzxICxqQpsz38F2dO8j328mRvYXzJX4DNZtg.png" group-title="- HISTORY -",HISTORY HUNTERS
+http://hometv.biz.id:80/play/kGPHP1v1M9JXva4rlXf0GPRTYrSU2BreRoOk4gPteKY
+#EXTINF:-1 tvg-name="HISTORIA" tvg-logo="http://hometv.biz.id:80/images/Ew7KWgEVPBJlBK0JSddniCSXgQUyeYTSUh135SFESvZVGKa_WXlY1pFKTPGwdF1f7yaJh0UGkTmva9BUIpGnmqVr1v_fszJ535J_R4vRkPY.png" group-title="- HISTORY -",HISTORIA
+http://hometv.biz.id:80/play/kGPHP1v1M9JXva4rlXf0GAKA4kyNLUVI-9AiNUKbixA
+#EXTINF:-1 tvg-name="WEATHER SPY" tvg-logo="http://hometv.biz.id:80/images/Ew7KWgEVPBJlBK0JSddniCSXgQUyeYTSUh135SFESvY5Azxix7EZrz4nRuimLTdCd46u8SuWP2ooObfKqmK-KuvSWCTFfoTdeO7TA9h9pcw.png" group-title="- HISTORY -",WEATHER SPY
+http://hometv.biz.id:80/play/kGPHP1v1M9JXva4rlXf0GMSImy1JmwuWBMwK5_3520M
+#EXTINF:-1 tvg-name="SPIDER MAN" tvg-logo="http://hometv.biz.id:80/images/6454JHbcJJ4fNHOztr9-XbmQQsc_72rMbynJbbrhg5-pFEAA7P-1GGQ8kOnvgndnKSv2SEq2wBf0gn48WsrC5e2xw78WnDzNQpWiQU1iBa4xSfkO9mnu04Cu7iqVg_xCKgglsEg4nomUiejPJ4c8xTJMXIkz9mMPYZ1SNZywpNuU5zrT0pDIskoz54NIorul_-cESvh9qnP7ShuEQrnUVQ.png" group-title="- BOX OFFICE 24/7 -",SPIDER MAN
+http://hometv.biz.id:80/play/kGPHP1v1M9JXva4rlXf0GEIxQf0I7aXEPkZlZxlnTiY
+#EXTINF:-1 tvg-name="IP MAN" tvg-logo="http://hometv.biz.id:80/images/6454JHbcJJ4fNHOztr9-XbmQQsc_72rMbynJbbrhg5-pFEAA7P-1GGQ8kOnvgndnKSv2SEq2wBf0gn48WsrC5e2xw78WnDzNQpWiQU1iBa4xSfkO9mnu04Cu7iqVg_xCGZqT_kMjsfVKs9jF3OQdq5M5qrDic3DFh3h7HHd_gjjg_m_lgUM3qlLsXgl9c1iR.png" group-title="- BOX OFFICE 24/7 -",IP MAN
+http://hometv.biz.id:80/play/kGPHP1v1M9JXva4rlXf0GMOHyrhUi0GwP2-bwcNQQwM
+#EXTINF:-1 tvg-name="JURASSIC PARK" tvg-logo="http://hometv.biz.id:80/images/6454JHbcJJ4fNHOztr9-XbmQQsc_72rMbynJbbrhg5-pFEAA7P-1GGQ8kOnvgndnKSv2SEq2wBf0gn48WsrC5e2xw78WnDzNQpWiQU1iBa4xSfkO9mnu04Cu7iqVg_xCEWjFOVugtXW0iTBRKWyfwJz6J_l4B2QwSMcWQ9iT4V6zxcwhETS45fSNj4O-K6PRtkdWTIbxnO_TtkjMbIf6PA.png" group-title="- BOX OFFICE 24/7 -",JURASSIC PARK
+http://hometv.biz.id:80/play/kGPHP1v1M9JXva4rlXf0GLZUJBBexpSlty6cMUTpczs
+#EXTINF:-1 tvg-name="FAST AND THE FURIOUS" tvg-logo="http://hometv.biz.id:80/images/6454JHbcJJ4fNHOztr9-XbmQQsc_72rMbynJbbrhg5-pFEAA7P-1GGQ8kOnvgndnKSv2SEq2wBf0gn48WsrC5e2xw78WnDzNQpWiQU1iBa4xSfkO9mnu04Cu7iqVg_xCZHWP_UqrytOuk9rnT45bg8GdxsGrCCiMuEQ291urpFici6gzrr1rS4Sj25k0mMZpnHh9I8gc-9xtpomWe5jRWA.png" group-title="- BOX OFFICE 24/7 -",FAST AND THE FURIOUS
+http://hometv.biz.id:80/play/kGPHP1v1M9JXva4rlXf0GKSSIILsg36jrUNtEriAkuU
+#EXTINF:-1 tvg-name="THE MUMMY" tvg-logo="http://hometv.biz.id:80/images/6454JHbcJJ4fNHOztr9-XbmQQsc_72rMbynJbbrhg5-pFEAA7P-1GGQ8kOnvgndnKSv2SEq2wBf0gn48WsrC5e2xw78WnDzNQpWiQU1iBa4xSfkO9mnu04Cu7iqVg_xCSQCzasdnIApRfEgc9efBKzq5BBoC5AhY4ZIOAE9Fo0lI_twuEBqiXsw8szFWw5HVoDM24UaHeumqtHRzFsR0vA.png" group-title="- BOX OFFICE 24/7 -",THE MUMMY
+http://hometv.biz.id:80/play/kGPHP1v1M9JXva4rlXf0GJmDc_yz_nYQs-cZVp63XlI
+#EXTINF:-1 tvg-name="JUMANJI" tvg-logo="http://hometv.biz.id:80/images/6454JHbcJJ4fNHOztr9-XbmQQsc_72rMbynJbbrhg5-pFEAA7P-1GGQ8kOnvgndnKSv2SEq2wBf0gn48WsrC5e2xw78WnDzNQpWiQU1iBa4xSfkO9mnu04Cu7iqVg_xCAxFcN5JalOoEI2SYE8VhwZBqRC0xFOd4QaZZuh6iU6LjmfiiHk6JkzUPzOoDj4iA.png" group-title="- BOX OFFICE 24/7 -",JUMANJI
+http://hometv.biz.id:80/play/kGPHP1v1M9JXva4rlXf0GL4O3jMrteEqleKH16bWopc
+#EXTINF:-1 tvg-name="MAD MAX" tvg-logo="http://hometv.biz.id:80/images/Ew7KWgEVPBJlBK0JSddniCSXgQUyeYTSUh135SFESvZBnIEU2s1C6cWX2s9J_y4kHu17hCcuY6dxZMyeUXeisA.png" group-title="- BOX OFFICE 24/7 -",MAD MAX
+http://hometv.biz.id:80/play/kGPHP1v1M9JXva4rlXf0GLUZd5tKQghYZnoPVz7zYeg
+#EXTINF:-1 tvg-name="INDIANA JONES" tvg-logo="http://hometv.biz.id:80/images/6454JHbcJJ4fNHOztr9-XbmQQsc_72rMbynJbbrhg5-pFEAA7P-1GGQ8kOnvgndnKSv2SEq2wBf0gn48WsrC5e2xw78WnDzNQpWiQU1iBa4xSfkO9mnu04Cu7iqVg_xC-YN2cy3_UmsMtn-POxwEzOP2my3eUeW6yuXOd4PcUEZyeqcak7pm7wUBBvqfftnJl9gnqaZMjPhTfttpaF-m-g.png" group-title="- BOX OFFICE 24/7 -",INDIANA JONES
+http://hometv.biz.id:80/play/kGPHP1v1M9JXva4rlXf0GNb97fRwJUcuupsV_rDvjGo
+#EXTINF:-1 tvg-name="THE TERMINATOR" tvg-logo="http://hometv.biz.id:80/images/6454JHbcJJ4fNHOztr9-XbmQQsc_72rMbynJbbrhg5-pFEAA7P-1GGQ8kOnvgndnKSv2SEq2wBf0gn48WsrC5e2xw78WnDzNQpWiQU1iBa4xSfkO9mnu04Cu7iqVg_xCS9Q29UkMmjwV3H-SFgPqVUKw231Za8SQFaZiDLeLtyi4tKuMNG4HFfwE53TeYxWWOx_14ZLeru73E_1LJlp4IA.png" group-title="- BOX OFFICE 24/7 -",THE TERMINATOR
+http://hometv.biz.id:80/play/kGPHP1v1M9JXva4rlXf0GBQSTcX5ygKog31DPyI0gjc
+#EXTINF:-1 tvg-name="RESIDENT EVIL" tvg-logo="http://hometv.biz.id:80/images/6454JHbcJJ4fNHOztr9-XbmQQsc_72rMbynJbbrhg5-pFEAA7P-1GGQ8kOnvgndnKSv2SEq2wBf0gn48WsrC5e2xw78WnDzNQpWiQU1iBa4xSfkO9mnu04Cu7iqVg_xCzDdHoyesjto4KbxQkOYH6GEdz5SY8YAorbhVKCbZREEUwdG5q0zzODidpr59HJeyWWimVTwmNctoUZ1-LViSaA.png" group-title="- BOX OFFICE 24/7 -",RESIDENT EVIL
+http://hometv.biz.id:80/play/kGPHP1v1M9JXva4rlXf0GFQHQNe598faEBQifDTXCPU
+#EXTINF:-1 tvg-name="RAMBO" tvg-logo="http://hometv.biz.id:80/images/6454JHbcJJ4fNHOztr9-XbmQQsc_72rMbynJbbrhg5-pFEAA7P-1GGQ8kOnvgndnKSv2SEq2wBf0gn48WsrC5e2xw78WnDzNQpWiQU1iBa4xSfkO9mnu04Cu7iqVg_xCUqJsj4uGttQjoQVeyod1QFqZesoTjHgIOgE6k6yGWs_F9ibpDASGlM3Txb8SL57Y.png" group-title="- BOX OFFICE 24/7 -",RAMBO
+http://hometv.biz.id:80/play/kGPHP1v1M9JXva4rlXf0GN5UYoHLcVytqNSZ87OawxI
+#EXTINF:-1 tvg-name="JHON WICK" tvg-logo="http://hometv.biz.id:80/images/Ew7KWgEVPBJlBK0JSddniCSXgQUyeYTSUh135SFESvZBnIEU2s1C6cWX2s9J_y4kUuii0bpXsYORg3cBBpLTABUrRJvD-mJX3xiwVj3fK2s.png" group-title="- BOX OFFICE 24/7 -",JHON WICK
+http://hometv.biz.id:80/play/kGPHP1v1M9JXva4rlXf0GBMrYNk7oD3B0sjdNsgnjQY
+#EXTINF:-1 tvg-name="BLADE" tvg-logo="http://hometv.biz.id:80/images/Ew7KWgEVPBJlBK0JSddniCSXgQUyeYTSUh135SFESvZBnIEU2s1C6cWX2s9J_y4kqBQkXJjYBNep4ggDMUn6qw.png" group-title="- BOX OFFICE 24/7 -",BLADE
+http://hometv.biz.id:80/play/kGPHP1v1M9JXva4rlXf0GBwbHyinSnGOdVvL3yR0sbY
+#EXTINF:-1 tvg-name="X-MEN" tvg-logo="http://hometv.biz.id:80/images/Ew7KWgEVPBJlBK0JSddniCSXgQUyeYTSUh135SFESvZBnIEU2s1C6cWX2s9J_y4kfhzw6IB9hMt3SUpU_Y1qgg.png" group-title="- BOX OFFICE 24/7 -",X-MEN
+http://hometv.biz.id:80/play/kGPHP1v1M9JXva4rlXf0GCfvkNaPFMT-8oFLWNqcp2k
+#EXTINF:-1 tvg-name="DC UNIVERSE" tvg-logo="http://hometv.biz.id:80/images/Ew7KWgEVPBJlBK0JSddniCSXgQUyeYTSUh135SFESvZBnIEU2s1C6cWX2s9J_y4kHJm9F_mjkKgmScHFpBtM_QnkYsbFjJiIJ2W3BNTJI1Y.png" group-title="- BOX OFFICE 24/7 -",DC UNIVERSE
+http://hometv.biz.id:80/play/kGPHP1v1M9JXva4rlXf0GP9sYli4AmNXrGIDQkCCk8Y
+#EXTINF:-1 tvg-name="MAZE RUNNER" tvg-logo="http://hometv.biz.id:80/images/Ew7KWgEVPBJlBK0JSddniCSXgQUyeYTSUh135SFESvZBnIEU2s1C6cWX2s9J_y4kp-gX_kvdMsB3jzX4iP_dgF9WRcSeQOzi2xB-wkM_yLE.png" group-title="- BOX OFFICE 24/7 -",MAZE RUNNER
+http://hometv.biz.id:80/play/kGPHP1v1M9JXva4rlXf0GFzs9waOb1yo51uvF6dmdIs
+#EXTINF:-1 tvg-name="AVENGERS" tvg-logo="http://hometv.biz.id:80/images/Ew7KWgEVPBJlBK0JSddniCSXgQUyeYTSUh135SFESvZBnIEU2s1C6cWX2s9J_y4k8O0DcehcdXwg0ljyTXArkQ.png" group-title="- BOX OFFICE 24/7 -",AVENGERS
+http://hometv.biz.id:80/play/kGPHP1v1M9JXva4rlXf0GOCJtolMohoRC6qx1iZRNH0
+#EXTINF:-1 tvg-name="MEN IN BLACK" tvg-logo="http://hometv.biz.id:80/images/Ew7KWgEVPBJlBK0JSddniCSXgQUyeYTSUh135SFESvZBnIEU2s1C6cWX2s9J_y4kWh-HGSFFo2lt5z6h6z4qamcDP2tgwk5fkWL2MPe9OCg.png" group-title="- BOX OFFICE 24/7 -",MEN IN BLACK
+http://hometv.biz.id:80/play/kGPHP1v1M9JXva4rlXf0GJ72EtwEellJ8PNPlfr3Ytk
+#EXTINF:-1 tvg-name="THOR" tvg-logo="http://hometv.biz.id:80/images/Ew7KWgEVPBJlBK0JSddniCSXgQUyeYTSUh135SFESvZBnIEU2s1C6cWX2s9J_y4k22ttb77Kssmxak31lR2whA.png" group-title="- BOX OFFICE 24/7 -",THOR
+http://hometv.biz.id:80/play/kGPHP1v1M9JXva4rlXf0GGCZ_MXpZieDo0EjpBvFfWw
+#EXTINF:-1 tvg-name="THE HOBBIT" tvg-logo="http://hometv.biz.id:80/images/Ew7KWgEVPBJlBK0JSddniCSXgQUyeYTSUh135SFESvZBnIEU2s1C6cWX2s9J_y4kPO4vwrvegCP9wnL1uwmaWg.png" group-title="- BOX OFFICE 24/7 -",THE HOBBIT
+http://hometv.biz.id:80/play/kGPHP1v1M9JXva4rlXf0GH5xb24fwBSNdFlyPHs1w9E
+#EXTINF:-1 tvg-name="THE LORD OF THE RINGS" tvg-logo="http://hometv.biz.id:80/images/Ew7KWgEVPBJlBK0JSddniCSXgQUyeYTSUh135SFESvZBnIEU2s1C6cWX2s9J_y4k1Hw4kjS7wgwJriCf1MpZGTRYe7zpFh7haxs8Z-URneM.png" group-title="- BOX OFFICE 24/7 -",THE LORD OF THE RINGS
+http://hometv.biz.id:80/play/kGPHP1v1M9JXva4rlXf0GCsSYAdZADo-87hpgfL8flc
+#EXTINF:-1 tvg-name="FINAL DESTINATION" tvg-logo="http://hometv.biz.id:80/images/Ew7KWgEVPBJlBK0JSddniCSXgQUyeYTSUh135SFESvZBnIEU2s1C6cWX2s9J_y4kHwAAXv1nJCh1YuobJ5KHHkQwfiEseXJ20sldvEXjJm8.png" group-title="- BOX OFFICE 24/7 -",FINAL DESTINATION
+http://hometv.biz.id:80/play/kGPHP1v1M9JXva4rlXf0GPmt2TAeieO6GAa3WfyBi6U
+#EXTINF:-1 tvg-name="DEADPOOL" tvg-logo="http://hometv.biz.id:80/images/Ew7KWgEVPBJlBK0JSddniCSXgQUyeYTSUh135SFESvZBnIEU2s1C6cWX2s9J_y4krWeAPuBwsMpMf6yo332JFtme4E90uVJ11VVhtLf3Hus.png" group-title="- BOX OFFICE 24/7 -",DEADPOOL
+http://hometv.biz.id:80/play/kGPHP1v1M9JXva4rlXf0GATWieucOcibBt3XCYbKaM0
+#EXTINF:-1 tvg-name="POLICE ACADEMY" tvg-logo="http://hometv.biz.id:80/images/Ew7KWgEVPBJlBK0JSddniCSXgQUyeYTSUh135SFESvZBnIEU2s1C6cWX2s9J_y4kCGJm056GEYDxA6G3HtRazg6cBC3Q4gTCjXopZ_zguCk.png" group-title="- BOX OFFICE 24/7 -",POLICE ACADEMY
+http://hometv.biz.id:80/play/kGPHP1v1M9JXva4rlXf0GKJqfow-xtUge7YMFmC5pSc
+#EXTINF:-1 tvg-name="ONE PIECE" tvg-logo="http://hometv.biz.id:80/images/Ew7KWgEVPBJlBK0JSddniCSXgQUyeYTSUh135SFESvZBnIEU2s1C6cWX2s9J_y4kg6K9rC4X8Kw9M3-5OkiIp8aKoN-7CmMT5qAfPwdS4qU.png" group-title="- BOX OFFICE 24/7 -",ONE PIECE
+http://hometv.biz.id:80/play/kGPHP1v1M9JXva4rlXf0GACkiPLduiktr2pTW-9EHFk
+#EXTINF:-1 tvg-name="AVATAR" tvg-logo="http://hometv.biz.id:80/images/Ew7KWgEVPBJlBK0JSddniCSXgQUyeYTSUh135SFESvZBnIEU2s1C6cWX2s9J_y4kkQva9DYr76b-GdrnbQlJxA.png" group-title="- BOX OFFICE 24/7 -",AVATAR
+http://hometv.biz.id:80/play/kGPHP1v1M9JXva4rlXf0GCuPkNGlWzfaXP20kUWHSJM
+#EXTINF:-1 tvg-name="NARNIA" tvg-logo="http://hometv.biz.id:80/images/Ew7KWgEVPBJlBK0JSddniCSXgQUyeYTSUh135SFESvZBnIEU2s1C6cWX2s9J_y4kKExTWQmt9sZ6wrNJ4BV7Qg.png" group-title="- BOX OFFICE 24/7 -",NARNIA
+http://hometv.biz.id:80/play/kGPHP1v1M9JXva4rlXf0GDVumSzUe9WVn-mPBgn9RVk
+#EXTINF:-1 tvg-name="HOME ALONE" tvg-logo="http://hometv.biz.id:80/images/Ew7KWgEVPBJlBK0JSddniCSXgQUyeYTSUh135SFESvZBnIEU2s1C6cWX2s9J_y4koehYYpq0SE9iUTDV5juHVtL-Y0n_Ot5nMUZFrKMTkcQ.png" group-title="- BOX OFFICE 24/7 -",HOME ALONE
+http://hometv.biz.id:80/play/kGPHP1v1M9JXva4rlXf0GNHgQvXe6XvCGrCObPDO2lY
+#EXTINF:-1 tvg-name="TAXI" tvg-logo="http://hometv.biz.id:80/images/Ew7KWgEVPBJlBK0JSddniCSXgQUyeYTSUh135SFESvZBnIEU2s1C6cWX2s9J_y4k6QgkAYqDAoaHKQ2f6WkJ2g.png" group-title="- BOX OFFICE 24/7 -",TAXI
+http://hometv.biz.id:80/play/kGPHP1v1M9JXva4rlXf0GFbwJf-0clzjccGK8KDoMxY
+#EXTINF:-1 tvg-name="PARANORMAL ACTIVITY" tvg-logo="http://hometv.biz.id:80/images/Ew7KWgEVPBJlBK0JSddniCSXgQUyeYTSUh135SFESvZBnIEU2s1C6cWX2s9J_y4kaTBBjhCtOhQHAojYBO1CrCi367Cno0ZJICYChr5POgM.png" group-title="- BOX OFFICE 24/7 -",PARANORMAL ACTIVITY
+http://hometv.biz.id:80/play/kGPHP1v1M9JXva4rlXf0GBqqfMDKwxkWUfOoMrT_fTA
+#EXTINF:-1 tvg-name="ONG BAK" tvg-logo="http://hometv.biz.id:80/images/Ew7KWgEVPBJlBK0JSddniCSXgQUyeYTSUh135SFESvZBnIEU2s1C6cWX2s9J_y4k4r_FQocbMB725Z7Tdbi2Tg.png" group-title="- BOX OFFICE 24/7 -",ONG BAK
+http://hometv.biz.id:80/play/kGPHP1v1M9JXva4rlXf0GDeTBDXqHgnbYGo0wJGl4BM
+#EXTINF:-1 tvg-name="BRUCE LEE" tvg-logo="http://hometv.biz.id:80/images/Ew7KWgEVPBJlBK0JSddniCSXgQUyeYTSUh135SFESvZBnIEU2s1C6cWX2s9J_y4kCAz7Kxh1eCNlI9cBIxEpO0ofCL1EcIgqbRy_l8U4GS4.png" group-title="- BOX OFFICE 24/7 -",BRUCE LEE
+http://hometv.biz.id:80/play/kGPHP1v1M9JXva4rlXf0GCgjSmg46XvHOl9tYbb0xIE
+#EXTINF:-1 tvg-name="JET LI" tvg-logo="http://hometv.biz.id:80/images/Ew7KWgEVPBJlBK0JSddniCSXgQUyeYTSUh135SFESvZBnIEU2s1C6cWX2s9J_y4k9m127EgKrYDFZ-pHxropVg.png" group-title="- BOX OFFICE 24/7 -",JET LI
+http://hometv.biz.id:80/play/kGPHP1v1M9JXva4rlXf0GCL_znqqdXgXhlqnwrufP_c
+#EXTINF:-1 tvg-name="KUNG FU PANDA" tvg-logo="http://hometv.biz.id:80/images/Ew7KWgEVPBJlBK0JSddniCSXgQUyeYTSUh135SFESvZBnIEU2s1C6cWX2s9J_y4kbw6kkkQ19tXVKCfTXEFKOamNsx8V7eYZ5NY3srWJuw0.png" group-title="- BOX OFFICE 24/7 -",KUNG FU PANDA
+http://hometv.biz.id:80/play/kGPHP1v1M9JXva4rlXf0GMVS1AtFxJRCrTI8r8RgcZk
+#EXTINF:-1 tvg-name="ASTERIX" tvg-logo="http://hometv.biz.id:80/images/Ew7KWgEVPBJlBK0JSddniCSXgQUyeYTSUh135SFESvZBnIEU2s1C6cWX2s9J_y4kR1oLnEqOudJtNxSsmSFfcQ.png" group-title="- BOX OFFICE 24/7 -",ASTERIX
+http://hometv.biz.id:80/play/kGPHP1v1M9JXva4rlXf0GLUZKgYl_BWwhulF-nqd_VU
+#EXTINF:-1 tvg-name="HAPPY GHOST" tvg-logo="http://hometv.biz.id:80/images/Ew7KWgEVPBJlBK0JSddniCSXgQUyeYTSUh135SFESvZBnIEU2s1C6cWX2s9J_y4k0c3DTXrW1JR1uE8h8pxR2xEcYfC0KACqesoS7-IKOMw.png" group-title="- BOX OFFICE 24/7 -",HAPPY GHOST
+http://hometv.biz.id:80/play/kGPHP1v1M9JXva4rlXf0GEj2eMRwrhHQn2NlMuFZmyI
+#EXTINF:-1 tvg-name="DORAEMON" tvg-logo="http://hometv.biz.id:80/images/Ew7KWgEVPBJlBK0JSddniCSXgQUyeYTSUh135SFESvbfdeNmlgxK086DUO-GdhDcwKjIMya0Azpmz_o10mjdNQ.png" group-title="- KIDS 24/7 -",DORAEMON
+http://hometv.biz.id:80/play/kGPHP1v1M9JXva4rlXf0GGh5u5mMuzB64IYLGfDDibw
+#EXTINF:-1 tvg-name="UPIN IPIN" tvg-logo="http://hometv.biz.id:80/images/Ew7KWgEVPBJlBK0JSddniCSXgQUyeYTSUh135SFESvbfdeNmlgxK086DUO-GdhDcrMv5ootj3Crjg7UGWmC1aw.png" group-title="- KIDS 24/7 -",UPIN IPIN
+http://hometv.biz.id:80/play/kGPHP1v1M9JXva4rlXf0GPOFM7e6_wIp3YTpLVRn_j0
+#EXTINF:-1 tvg-name="MASHA & BEAR" tvg-logo="http://hometv.biz.id:80/images/Ew7KWgEVPBJlBK0JSddniCSXgQUyeYTSUh135SFESvbfdeNmlgxK086DUO-GdhDclCR6ttVW6Av5X_yybepdJg.png" group-title="- KIDS 24/7 -",MASHA & BEAR
+http://hometv.biz.id:80/play/kGPHP1v1M9JXva4rlXf0GFTi-fyB-mOvvs0TliB6ejE
+#EXTINF:-1 tvg-name="LARVA" tvg-logo="http://hometv.biz.id:80/images/Ew7KWgEVPBJlBK0JSddniCSXgQUyeYTSUh135SFESvbfdeNmlgxK086DUO-GdhDcHoXgA0mgreIZGmh_tLw-Qw.png" group-title="- KIDS 24/7 -",LARVA
+http://hometv.biz.id:80/play/kGPHP1v1M9JXva4rlXf0GOHnwEBFNT85WXDcDegGNTk
+#EXTINF:-1 tvg-name="ADIT SOPO JARWO" tvg-logo="http://hometv.biz.id:80/images/Ew7KWgEVPBJlBK0JSddniCSXgQUyeYTSUh135SFESvbfdeNmlgxK086DUO-GdhDcTVwbz5nlb0S7oVCVmp5KdaIFBH-UWDdaWKNOH0fQn74.png" group-title="- KIDS 24/7 -",ADIT SOPO JARWO
+http://hometv.biz.id:80/play/kGPHP1v1M9JXva4rlXf0GCgF1VJgDKvr1-oWMmES6pI
+#EXTINF:-1 tvg-name="DONAL DUCK" tvg-logo="http://hometv.biz.id:80/images/Ew7KWgEVPBJlBK0JSddniCSXgQUyeYTSUh135SFESvbfdeNmlgxK086DUO-GdhDcMxRUc4q7M_lOXFDa2AXKbQ.png" group-title="- KIDS 24/7 -",DONAL DUCK
+http://hometv.biz.id:80/play/kGPHP1v1M9JXva4rlXf0GISajah3bKGkMb4E_sMtufU
+#EXTINF:-1 tvg-name="BERNARD" tvg-logo="http://hometv.biz.id:80/images/Ew7KWgEVPBJlBK0JSddniCSXgQUyeYTSUh135SFESvbfdeNmlgxK086DUO-GdhDcn2E0wyblQfi18Okj2cENtQ.png" group-title="- KIDS 24/7 -",BERNARD
+http://hometv.biz.id:80/play/kGPHP1v1M9JXva4rlXf0GPLB2Fr3oM7Xo8y-9R0paEU
+#EXTINF:-1 tvg-name="SHAUN THE SHEEP" tvg-logo="http://hometv.biz.id:80/images/Ew7KWgEVPBJlBK0JSddniCSXgQUyeYTSUh135SFESvbfdeNmlgxK086DUO-GdhDcks1UyO_rVvT3PVBYuCgqD8DXclR3W2UL-djIfC8T7TY.png" group-title="- KIDS 24/7 -",SHAUN THE SHEEP
+http://hometv.biz.id:80/play/kGPHP1v1M9JXva4rlXf0GEQA8uNKwJLcAIXhYdt2sDE
+#EXTINF:-1 tvg-name="TAYO" tvg-logo="http://hometv.biz.id:80/images/Ew7KWgEVPBJlBK0JSddniCSXgQUyeYTSUh135SFESvbfdeNmlgxK086DUO-GdhDc6WkRTMHkmATcpMm_hZHrBw.png" group-title="- KIDS 24/7 -",TAYO
+http://hometv.biz.id:80/play/kGPHP1v1M9JXva4rlXf0GIGChcgDKUf_KaqG8CRRlEk
+#EXTINF:-1 tvg-name="THOMAS & FRIEND" tvg-logo="http://hometv.biz.id:80/images/Ew7KWgEVPBJlBK0JSddniCSXgQUyeYTSUh135SFESvbfdeNmlgxK086DUO-GdhDcuGduivrhHgcWq2xOlbMP_5TxJ-3AsziqtPwCqY0hUcU.png" group-title="- KIDS 24/7 -",THOMAS & FRIEND
+http://hometv.biz.id:80/play/kGPHP1v1M9JXva4rlXf0GPvJ4fBhz0BjOzMuDuKsBEs
+#EXTINF:-1 tvg-name="TELETUBBIES" tvg-logo="http://hometv.biz.id:80/images/Ew7KWgEVPBJlBK0JSddniCSXgQUyeYTSUh135SFESvbfdeNmlgxK086DUO-GdhDcpP346Nw83x1OgRegbRXRwHussHWBNkgvGAl971ui3KY.png" group-title="- KIDS 24/7 -",TELETUBBIES
+http://hometv.biz.id:80/play/kGPHP1v1M9JXva4rlXf0GIMkSSVxm0juvClRVwjT5tQ
+#EXTINF:-1 tvg-name="WARKOP DKI" tvg-logo="http://hometv.biz.id:80/images/Ew7KWgEVPBJlBK0JSddniCSXgQUyeYTSUh135SFESvZBnIEU2s1C6cWX2s9J_y4kax6J8bAclz2aGnABK0oN_Q.png" group-title="- FUNNY 24/7 -",WARKOP DKI
+http://hometv.biz.id:80/play/kGPHP1v1M9JXva4rlXf0GJJ4KBD0DB15nIJI6N7tLNc
+#EXTINF:-1 tvg-name="Mr. BEAN" tvg-logo="http://hometv.biz.id:80/images/Ew7KWgEVPBJlBK0JSddniCSXgQUyeYTSUh135SFESvbxg3rAupk5MQM_UDSF8NRf9IIXzB4dyzdZPAQ3aQieQw.png" group-title="- FUNNY 24/7 -",Mr. BEAN
+http://hometv.biz.id:80/play/kGPHP1v1M9JXva4rlXf0GAV26ElyhzIqTlBqbiRbcKI
+#EXTINF:-1 tvg-id="iptv_196" tvg-name="TOM & JERRY" tvg-logo="http://hometv.biz.id:80/images/Ew7KWgEVPBJlBK0JSddniCSXgQUyeYTSUh135SFESvbfdeNmlgxK086DUO-GdhDc3JZOqpP8nvoRLUIvuFuZRQ.png" group-title="- FUNNY 24/7 -",TOM & JERRY
+http://hometv.biz.id:80/play/kGPHP1v1M9JXva4rlXf0GNNfEZNkyotb3smYwHbfp8s
+#EXTINF:-1 tvg-name="+62" tvg-logo="http://hometv.biz.id:80/images/Ew7KWgEVPBJlBK0JSddniCSXgQUyeYTSUh135SFESvbxg3rAupk5MQM_UDSF8NRf6374aFmnNEvKgflEIpuG2Q.png" group-title="- FUNNY 24/7 -",+62
+http://hometv.biz.id:80/play/kGPHP1v1M9JXva4rlXf0GHQ7fj_PkPATCAOeblsOxFY
+#EXTINF:-1 tvg-name="JUST FOR LAUGHS" tvg-logo="http://hometv.biz.id:80/images/Ew7KWgEVPBJlBK0JSddniCSXgQUyeYTSUh135SFESvYHH3zpqLWX8I0taGqdYbNxMlB5eIiJTi60YNNgX_1Z0Q.png" group-title="- FUNNY 24/7 -",JUST FOR LAUGHS
+http://hometv.biz.id:80/play/kGPHP1v1M9JXva4rlXf0GHuyBF5h5BgvXZWpfZfWTr8
+#EXTINF:-1 tvg-name="FUNNY VIDEOS" tvg-logo="http://hometv.biz.id:80/images/Ew7KWgEVPBJlBK0JSddniCSXgQUyeYTSUh135SFESvbxg3rAupk5MQM_UDSF8NRf3gCSVcXtT1LrXEbCCA3GgtBCuV_jBdwkjRa_jboIq8I.png" group-title="- FUNNY 24/7 -",FUNNY VIDEOS
+http://hometv.biz.id:80/play/kGPHP1v1M9JXva4rlXf0GFtfmYttGt2mtoUXe7BSbVI
+#EXTINF:-1 tvg-name="FAILARMY" tvg-logo="http://hometv.biz.id:80/images/Ew7KWgEVPBJlBK0JSddniCSXgQUyeYTSUh135SFESvbxg3rAupk5MQM_UDSF8NRfzEpi_AM2-wMRmT0IYe-GRg.png" group-title="- FUNNY 24/7 -",FAILARMY
+http://hometv.biz.id:80/play/kGPHP1v1M9JXva4rlXf0GF25YzhrPSUaRwsOjGi-znc
+#EXTINF:-1 tvg-name="RALLY TV" tvg-logo="http://hometv.biz.id:80/images/Ew7KWgEVPBJlBK0JSddniCSXgQUyeYTSUh135SFESvbPPL8rHq5gb8bpu8RxSiKkGDFJjA8ufk0w1_YiyNmkjg.png" group-title="- OTOMOTIF -",RALLY TV
+http://hometv.biz.id:80/play/kGPHP1v1M9JXva4rlXf0GCDfHzvSiZCiTP-HheUgNLc
+#EXTINF:-1 tvg-name="MOTORVISION+" tvg-logo="http://hometv.biz.id:80/images/Ew7KWgEVPBJlBK0JSddniCSXgQUyeYTSUh135SFESvbPPL8rHq5gb8bpu8RxSiKkLKEKxFTszpPapFsTnSApLviIwzyFZ-6Z_CTroWsaC9Y.png" group-title="- OTOMOTIF -",MOTORVISION+
+http://hometv.biz.id:80/play/kGPHP1v1M9JXva4rlXf0GMkfP1626bmxYa9TBjZUD6s
+#EXTINF:-1 tvg-name="MOTOR RACING" tvg-logo="http://hometv.biz.id:80/images/Ew7KWgEVPBJlBK0JSddniCSXgQUyeYTSUh135SFESvYTaQMRevgtYsM2uHVkIa9-blOieoq8LVbCh-DcsJ7gKnlunCrnafcCkO-J9ztIdvc.png" group-title="- OTOMOTIF -",MOTOR RACING
+http://hometv.biz.id:80/play/kGPHP1v1M9JXva4rlXf0GBgZegfBVBkC1yGIZCAS4j8
+#EXTINF:-1 tvg-id="iptv_204" tvg-name="DMAX" tvg-logo="http://hometv.biz.id:80/images/Ew7KWgEVPBJlBK0JSddniCSXgQUyeYTSUh135SFESvYTaQMRevgtYsM2uHVkIa9-XmrZPg4cGlU7aLfriDWQgQ.png" group-title="- OTOMOTIF -",DMAX
+http://hometv.biz.id:80/play/kGPHP1v1M9JXva4rlXf0GMuiLLbBKFw7tFwS3vvURyY
+#EXTINF:-1 tvg-name="TOP GEAR" tvg-logo="http://hometv.biz.id:80/images/Ew7KWgEVPBJlBK0JSddniCSXgQUyeYTSUh135SFESvYTaQMRevgtYsM2uHVkIa9-SX8B6JxnqNe5k2ZNmzv1MVGkpgJrcadOFrBOcDg9BW0.png" group-title="- OTOMOTIF -",TOP GEAR
+http://hometv.biz.id:80/play/kGPHP1v1M9JXva4rlXf0GE2mutTaHVcM6XNhArmPOOU
+#EXTINF:-1 tvg-id="iptv_206" tvg-name="MOTOR TREND" tvg-logo="http://hometv.biz.id:80/images/Ew7KWgEVPBJlBK0JSddniCSXgQUyeYTSUh135SFESvYTaQMRevgtYsM2uHVkIa9-IMQ4JdMIN26aaGYfgntLsDZTxPt3QTfuMyNAgS058y8.png" group-title="- OTOMOTIF -",MOTOR TREND
+http://hometv.biz.id:80/play/kGPHP1v1M9JXva4rlXf0GIxtOlfdmn6Is_tO0Cf4Wl4
+#EXTINF:-1 tvg-name="POWER NATION" tvg-logo="http://hometv.biz.id:80/images/Ew7KWgEVPBJlBK0JSddniCSXgQUyeYTSUh135SFESvYTaQMRevgtYsM2uHVkIa9-w_oAHL7lMryP-socsPSqV273-AYiFwUfzMiF9v-RksQ.png" group-title="- OTOMOTIF -",POWER NATION
+http://hometv.biz.id:80/play/kGPHP1v1M9JXva4rlXf0GHULiWPMHlouLKoZG73fru0
+#EXTINF:-1 tvg-name="HAGERTY" tvg-logo="http://hometv.biz.id:80/images/Ew7KWgEVPBJlBK0JSddniCSXgQUyeYTSUh135SFESvYTaQMRevgtYsM2uHVkIa9-L7UjIr7kcCZUqNHwDLJRxABoz6xIvo6-Dn9kf13XoMU.png" group-title="- OTOMOTIF -",HAGERTY
+http://hometv.biz.id:80/play/kGPHP1v1M9JXva4rlXf0GNGNgO1hCzskWoN4YFgdcWY
+#EXTINF:-1 tvg-name="LIGA 1 BRI" tvg-logo="http://hometv.biz.id:80/images/Ew7KWgEVPBJlBK0JSddniCSXgQUyeYTSUh135SFESvYzR8V8ems-x96B19vGtEkROIzL4HtL9obxJPF2Un_bEcj5WnzhovJx3HzNhCPfgYM.png" group-title="-  VIP | SPORTS ID -",LIGA 1 BRI
+http://hometv.biz.id:80/play/kGPHP1v1M9JXva4rlXf0GO6w8U89yYjRQjlRUf5yvgM
+#EXTINF:-1 tvg-name="VOLI TV" tvg-logo="http://hometv.biz.id:80/images/Ew7KWgEVPBJlBK0JSddniCSXgQUyeYTSUh135SFESvbPPL8rHq5gb8bpu8RxSiKkGk00RVDOOknP8J7Z-2T6eWpp4Z-ZwgsaJhRxBKyE-tM.png" group-title="-  VIP | SPORTS ID -",VOLI TV
+http://hometv.biz.id:80/play/kGPHP1v1M9JXva4rlXf0GPp9XMZVjGal00m4Cg7GZAQ
+#EXTINF:-1 tvg-name="MOJI" tvg-logo="http://hometv.biz.id:80/images/Ew7KWgEVPBJlBK0JSddniCSXgQUyeYTSUh135SFESvbPPL8rHq5gb8bpu8RxSiKkZ9jgkBJZgNp_BmaeuwRKiA.png" group-title="-  VIP | SPORTS ID -",MOJI
+http://hometv.biz.id:80/play/kGPHP1v1M9JXva4rlXf0GJrt-luY9u4dQ5KpJkmYJi8
+#EXTINF:-1 tvg-name="TVRI SPORTS ᴾᴿᴱᴹᴵᵁᴹ" tvg-logo="http://hometv.biz.id:80/images/Ew7KWgEVPBJlBK0JSddniCSXgQUyeYTSUh135SFESvbPPL8rHq5gb8bpu8RxSiKkq1vZnEN_NEr1aCvjL34hwka4Ms8yOY9OoSCN05vVjmU.png" group-title="-  VIP | SPORTS ID -",TVRI SPORTS ᴾᴿᴱᴹᴵᵁᴹ
+http://hometv.biz.id:80/play/kGPHP1v1M9JXva4rlXf0GJaVCDU2C9IS3WqRsjT5qC8
+#EXTINF:-1 tvg-name="SPO TV 1 ID" tvg-logo="http://hometv.biz.id:80/images/Ew7KWgEVPBJlBK0JSddniCSXgQUyeYTSUh135SFESvbPPL8rHq5gb8bpu8RxSiKkc_kGc4Zurs3J6OMCJZu-WQ.png" group-title="-  VIP | SPORTS ID -",SPO TV 1 ID
+http://hometv.biz.id:80/play/kGPHP1v1M9JXva4rlXf0GIkWiIE0Z72WwRgzrN257FY
+#EXTINF:-1 tvg-name="SPO TV 2 ID" tvg-logo="http://hometv.biz.id:80/images/Ew7KWgEVPBJlBK0JSddniCSXgQUyeYTSUh135SFESvbPPL8rHq5gb8bpu8RxSiKkIHwMZyAVBpAdMJNcaj7mvQ.png" group-title="-  VIP | SPORTS ID -",SPO TV 2 ID
+http://hometv.biz.id:80/play/kGPHP1v1M9JXva4rlXf0GNjrdOIT-rVzZD1mLEB2EA8
+#EXTINF:-1 tvg-name="beIN 1 ID" tvg-logo="http://hometv.biz.id:80/images/Ew7KWgEVPBJlBK0JSddniCSXgQUyeYTSUh135SFESvbPPL8rHq5gb8bpu8RxSiKkrM3G8FrJ4zsfg9wHOGlbfFzxEbLf98vJHXdv6r8a67w.png" group-title="-  VIP | SPORTS ID -",beIN 1 ID
+http://hometv.biz.id:80/play/kGPHP1v1M9JXva4rlXf0GM7Nmw-u3RPa6YEb-I57gIs
+#EXTINF:-1 tvg-name="beIN 2 ID" tvg-logo="http://hometv.biz.id:80/images/Ew7KWgEVPBJlBK0JSddniCSXgQUyeYTSUh135SFESvbPPL8rHq5gb8bpu8RxSiKkrM3G8FrJ4zsfg9wHOGlbfFzxEbLf98vJHXdv6r8a67w.png" group-title="-  VIP | SPORTS ID -",beIN 2 ID
+http://hometv.biz.id:80/play/kGPHP1v1M9JXva4rlXf0GE9BxZk6s3X2CimP9iJncp8
+#EXTINF:-1 tvg-name="beIN 3 ID" tvg-logo="http://hometv.biz.id:80/images/Ew7KWgEVPBJlBK0JSddniCSXgQUyeYTSUh135SFESvbPPL8rHq5gb8bpu8RxSiKkrM3G8FrJ4zsfg9wHOGlbfFzxEbLf98vJHXdv6r8a67w.png" group-title="-  VIP | SPORTS ID -",beIN 3 ID
+http://hometv.biz.id:80/play/kGPHP1v1M9JXva4rlXf0GLEjPVIR9Y5_d4Cnw6Uj6yw
+#EXTINF:-1 tvg-name="SPORTSTARS 1" tvg-logo="http://hometv.biz.id:80/images/Ew7KWgEVPBJlBK0JSddniCSXgQUyeYTSUh135SFESvbPPL8rHq5gb8bpu8RxSiKkHc2LY2Zfl6RlOTv4wNqxsqjLOeDxzoWot1Ws9TlmJwY.png" group-title="-  VIP | SPORTS ID -",SPORTSTARS 1
+http://hometv.biz.id:80/play/kGPHP1v1M9JXva4rlXf0GGUJe3edDRARPcIepbvy2ZI
+#EXTINF:-1 tvg-id="iptv_219" tvg-name="SPORTSTARS 2" tvg-logo="http://hometv.biz.id:80/images/Ew7KWgEVPBJlBK0JSddniCSXgQUyeYTSUh135SFESvbPPL8rHq5gb8bpu8RxSiKkHc2LY2Zfl6RlOTv4wNqxsqjLOeDxzoWot1Ws9TlmJwY.png" group-title="-  VIP | SPORTS ID -",SPORTSTARS 2
+http://hometv.biz.id:80/play/kGPHP1v1M9JXva4rlXf0GNdBN1oX0ySGVyQ_rpqGRCI
+#EXTINF:-1 tvg-id="iptv_220" tvg-name="SPORTSTARS 3" tvg-logo="http://hometv.biz.id:80/images/Ew7KWgEVPBJlBK0JSddniCSXgQUyeYTSUh135SFESvbPPL8rHq5gb8bpu8RxSiKkHc2LY2Zfl6RlOTv4wNqxsqjLOeDxzoWot1Ws9TlmJwY.png" group-title="-  VIP | SPORTS ID -",SPORTSTARS 3
+http://hometv.biz.id:80/play/kGPHP1v1M9JXva4rlXf0GBH85yTlD8EgeZ4XvaNjsME
+#EXTINF:-1 tvg-id="iptv_221" tvg-name="SPORTSTARS 4" tvg-logo="http://hometv.biz.id:80/images/Ew7KWgEVPBJlBK0JSddniCSXgQUyeYTSUh135SFESvbPPL8rHq5gb8bpu8RxSiKkHc2LY2Zfl6RlOTv4wNqxsqjLOeDxzoWot1Ws9TlmJwY.png" group-title="-  VIP | SPORTS ID -",SPORTSTARS 4
+http://hometv.biz.id:80/play/kGPHP1v1M9JXva4rlXf0GP0WS9Ph7BCtld_OPIketqs
+#EXTINF:-1 tvg-id="iptv_222" tvg-name="SOCCER CHANNEL" tvg-logo="http://hometv.biz.id:80/images/Ew7KWgEVPBJlBK0JSddniCSXgQUyeYTSUh135SFESvbPPL8rHq5gb8bpu8RxSiKkU02uyRa7ztrVnDBwEXFGvw00H9ZRmc5YnXXVg_6iJJY.png" group-title="-  VIP | SPORTS ID -",SOCCER CHANNEL
+http://hometv.biz.id:80/play/kGPHP1v1M9JXva4rlXf0GHvDdwMnW6hMVnl_eVy8x6Y
+#EXTINF:-1 tvg-name="TIMNAS ⁽ˢᵉʳᵛᵉʳ ¹⁾ (Live Match Only)" tvg-logo="http://hometv.biz.id:80/images/Ew7KWgEVPBJlBK0JSddniCSXgQUyeYTSUh135SFESvbPPL8rHq5gb8bpu8RxSiKk1CWf0TNPsXKru50dYYEtLA.png" group-title="-  VIP | SPORTS ID -",TIMNAS ⁽ˢᵉʳᵛᵉʳ ¹⁾ (Live Match Only)
+http://hometv.biz.id:80/play/kGPHP1v1M9JXva4rlXf0GJFxWJ9mXx475yPAgHlMcXQ
+#EXTINF:-1 tvg-name="TIMNAS ⁽ˢᵉʳᵛᵉʳ ¹⁾ (Live Match Only)" tvg-logo="http://hometv.biz.id:80/images/Ew7KWgEVPBJlBK0JSddniCSXgQUyeYTSUh135SFESvbPPL8rHq5gb8bpu8RxSiKk1CWf0TNPsXKru50dYYEtLA.png" group-title="-  VIP | SPORTS ID -",TIMNAS ⁽ˢᵉʳᵛᵉʳ ¹⁾ (Live Match Only)
+http://hometv.biz.id:80/play/kGPHP1v1M9JXva4rlXf0GJ9V0UXeNJUgJvqEYDIocfs
+#EXTINF:-1 tvg-name="MY | ASSP 1" tvg-logo="http://hometv.biz.id:80/images/Ew7KWgEVPBJlBK0JSddniCSXgQUyeYTSUh135SFESvbPPL8rHq5gb8bpu8RxSiKkYZfWK2pvbla_WO4Lqik8UkQCzl_Vss7aVC7696XGiUQ.png" group-title="-  VIP | ASTRO SPORTS -",MY | ASSP 1
+http://hometv.biz.id:80/play/kGPHP1v1M9JXva4rlXf0GAMJ7NLdRNebJAPgQGMmHZo
+#EXTINF:-1 tvg-name="MY | ASSP 2" tvg-logo="http://hometv.biz.id:80/images/Ew7KWgEVPBJlBK0JSddniCSXgQUyeYTSUh135SFESvbPPL8rHq5gb8bpu8RxSiKkzP7wSZ_yDa-VrTbxtRedkDzmjqIX0MjHuPtVYKBHM5M.png" group-title="-  VIP | ASTRO SPORTS -",MY | ASSP 2
+http://hometv.biz.id:80/play/kGPHP1v1M9JXva4rlXf0GACXkj5IMZEXT952KmBh5K8
+#EXTINF:-1 tvg-name="MY | ASSP 3 (Match Only)" tvg-logo="http://hometv.biz.id:80/images/Ew7KWgEVPBJlBK0JSddniCSXgQUyeYTSUh135SFESvbPPL8rHq5gb8bpu8RxSiKkzP7wSZ_yDa-VrTbxtRedkDzmjqIX0MjHuPtVYKBHM5M.png" group-title="-  VIP | ASTRO SPORTS -",MY | ASSP 3 (Match Only)
+http://hometv.biz.id:80/play/kGPHP1v1M9JXva4rlXf0GNXEYQ2-O_VyaIMkRdETGLs
+#EXTINF:-1 tvg-name="MY | ASSP 4 (Match Only)" tvg-logo="http://hometv.biz.id:80/images/Ew7KWgEVPBJlBK0JSddniCSXgQUyeYTSUh135SFESvbPPL8rHq5gb8bpu8RxSiKkzP7wSZ_yDa-VrTbxtRedkDzmjqIX0MjHuPtVYKBHM5M.png" group-title="-  VIP | ASTRO SPORTS -",MY | ASSP 4 (Match Only)
+http://hometv.biz.id:80/play/kGPHP1v1M9JXva4rlXf0GON0gUMDcUL45RcNhuVGF-I
+#EXTINF:-1 tvg-name="MY | ASSP 5 (Match Only)" tvg-logo="http://hometv.biz.id:80/images/Ew7KWgEVPBJlBK0JSddniCSXgQUyeYTSUh135SFESvbPPL8rHq5gb8bpu8RxSiKkzP7wSZ_yDa-VrTbxtRedkDzmjqIX0MjHuPtVYKBHM5M.png" group-title="-  VIP | ASTRO SPORTS -",MY | ASSP 5 (Match Only)
+http://hometv.biz.id:80/play/kGPHP1v1M9JXva4rlXf0GDLXhE_2Mz7_29WKEpqJTDA
+#EXTINF:-1 tvg-name="MY | ASTRO GRANDSTAND" tvg-logo="http://hometv.biz.id:80/images/Ew7KWgEVPBJlBK0JSddniCSXgQUyeYTSUh135SFESvbPPL8rHq5gb8bpu8RxSiKk3SfWQd7_feJ4afcaCZnst-eOd3rNlYwdCzYzLOAg0Ro.png" group-title="-  VIP | ASTRO SPORTS -",MY | ASTRO GRANDSTAND
+http://hometv.biz.id:80/play/kGPHP1v1M9JXva4rlXf0GJQ9jYpgJjmhKToVUM0q7tM
+#EXTINF:-1 tvg-name="MY | ASTRO FOOTBALL" tvg-logo="http://hometv.biz.id:80/images/Ew7KWgEVPBJlBK0JSddniCSXgQUyeYTSUh135SFESvbPPL8rHq5gb8bpu8RxSiKkZBEBuVYFrkJiR5q1jHVGLd1R0tX48kjHAx4HF95l1yk.png" group-title="-  VIP | ASTRO SPORTS -",MY | ASTRO FOOTBALL
+http://hometv.biz.id:80/play/kGPHP1v1M9JXva4rlXf0GNVOa_CGn5Z1DJXQAVLcNU0
+#EXTINF:-1 tvg-name="MY | ASTRO SPORTS PLUS 1" tvg-logo="http://hometv.biz.id:80/images/Ew7KWgEVPBJlBK0JSddniCSXgQUyeYTSUh135SFESvbPPL8rHq5gb8bpu8RxSiKk51Cq_UpecR3yLC1aV7PZYYeLs12PwQRiRi_VdKWEFuQ.png" group-title="-  VIP | ASTRO SPORTS -",MY | ASTRO SPORTS PLUS 1
+http://hometv.biz.id:80/play/kGPHP1v1M9JXva4rlXf0GEkNnCGleh_P4mSeXIQJSjM
+#EXTINF:-1 tvg-name="MY | ASTRO SPORTS PLUS 2" tvg-logo="http://hometv.biz.id:80/images/Ew7KWgEVPBJlBK0JSddniCSXgQUyeYTSUh135SFESvbPPL8rHq5gb8bpu8RxSiKk51Cq_UpecR3yLC1aV7PZYYeLs12PwQRiRi_VdKWEFuQ.png" group-title="-  VIP | ASTRO SPORTS -",MY | ASTRO SPORTS PLUS 2
+http://hometv.biz.id:80/play/kGPHP1v1M9JXva4rlXf0GITlrAq4AiDeEK9r7MWz7nA
+#EXTINF:-1 tvg-name="MY | BADMINTON 1" tvg-logo="http://hometv.biz.id:80/images/Ew7KWgEVPBJlBK0JSddniCSXgQUyeYTSUh135SFESvbPPL8rHq5gb8bpu8RxSiKkmL7cnb4Y9pGa_NvYCEIPB7NWpQgJAuY-r61kzip2Jdo.png" group-title="-  VIP | ASTRO SPORTS -",MY | BADMINTON 1
+http://hometv.biz.id:80/play/kGPHP1v1M9JXva4rlXf0GFunYC5CT_OAbt5Vp9hg9mU
+#EXTINF:-1 tvg-name="MY | BADMINTON 2 (Match Only)" tvg-logo="http://hometv.biz.id:80/images/Ew7KWgEVPBJlBK0JSddniCSXgQUyeYTSUh135SFESvbPPL8rHq5gb8bpu8RxSiKkmL7cnb4Y9pGa_NvYCEIPB8a71Zc4wWMBdTZ-5RyJMqA.png" group-title="-  VIP | ASTRO SPORTS -",MY | BADMINTON 2 (Match Only)
+http://hometv.biz.id:80/play/kGPHP1v1M9JXva4rlXf0GD3hVCbGRKIPuqGVsjhaQeE
+#EXTINF:-1 tvg-name="MY | ASTRO ARENA 1" tvg-logo="http://hometv.biz.id:80/images/Ew7KWgEVPBJlBK0JSddniCSXgQUyeYTSUh135SFESvbPPL8rHq5gb8bpu8RxSiKkQepEfQVJfYbzZCu3dxGngFmlZDtiARvDItxCCAWGG-w.png" group-title="-  VIP | ASTRO SPORTS -",MY | ASTRO ARENA 1
+http://hometv.biz.id:80/play/kGPHP1v1M9JXva4rlXf0GHXnYe87RI408EWetTlQoG4
+#EXTINF:-1 tvg-name="MY | ASTRO ARENA 2" tvg-logo="http://hometv.biz.id:80/images/Ew7KWgEVPBJlBK0JSddniCSXgQUyeYTSUh135SFESvbPPL8rHq5gb8bpu8RxSiKkX9kGyCusUV3KGXbqmzl7cHvysdLB47PotvpqDgnuADg.png" group-title="-  VIP | ASTRO SPORTS -",MY | ASTRO ARENA 2
+http://hometv.biz.id:80/play/kGPHP1v1M9JXva4rlXf0GJf-SxVJu2jvy2p8qMNYZTQ
+#EXTINF:-1 tvg-name="MY | ARENA BOLA 1" tvg-logo="http://hometv.biz.id:80/images/Ew7KWgEVPBJlBK0JSddniCSXgQUyeYTSUh135SFESvbPPL8rHq5gb8bpu8RxSiKk42npCmrqUiQAZWm0M-wm2RkcRGX4ykCXyEHTFdmEMmI.png" group-title="-  VIP | ASTRO SPORTS -",MY | ARENA BOLA 1
+http://hometv.biz.id:80/play/kGPHP1v1M9JXva4rlXf0GGKKNhLlaPzCIx6eXQJ5orY
+#EXTINF:-1 tvg-name="MY | ARENA BOLA 2" tvg-logo="http://hometv.biz.id:80/images/Ew7KWgEVPBJlBK0JSddniCSXgQUyeYTSUh135SFESvbPPL8rHq5gb8bpu8RxSiKk-P7bt88Lt1DmAVJal9KKbOFShOX6G9K4-5iuCtqAWOU.png" group-title="-  VIP | ASTRO SPORTS -",MY | ARENA BOLA 2
+http://hometv.biz.id:80/play/kGPHP1v1M9JXva4rlXf0GKT9eJbETukfVpiuXA4nfCI
+#EXTINF:-1 tvg-name="MY | ASTRO GOLF" tvg-logo="http://hometv.biz.id:80/images/Ew7KWgEVPBJlBK0JSddniCSXgQUyeYTSUh135SFESvbPPL8rHq5gb8bpu8RxSiKkulETbqtfzzSVHstddjY9o5KJdCAfLfd17eNRA6VCxWE.png" group-title="-  VIP | ASTRO SPORTS -",MY | ASTRO GOLF
+http://hometv.biz.id:80/play/kGPHP1v1M9JXva4rlXf0GAzhBIhHnOM1dasjHvYgTws
+#EXTINF:-1 tvg-name="MY | SPO TV 1" tvg-logo="http://hometv.biz.id:80/images/Ew7KWgEVPBJlBK0JSddniCSXgQUyeYTSUh135SFESvbPPL8rHq5gb8bpu8RxSiKkc_kGc4Zurs3J6OMCJZu-WQ.png" group-title="-  VIP | ASTRO SPORTS -",MY | SPO TV 1
+http://hometv.biz.id:80/play/kGPHP1v1M9JXva4rlXf0GD8CCoOCZLY_CetK024SVbs
+#EXTINF:-1 tvg-name="MY | SPO TV 2" tvg-logo="http://hometv.biz.id:80/images/Ew7KWgEVPBJlBK0JSddniCSXgQUyeYTSUh135SFESvbPPL8rHq5gb8bpu8RxSiKkIHwMZyAVBpAdMJNcaj7mvQ.png" group-title="-  VIP | ASTRO SPORTS -",MY | SPO TV 2
+http://hometv.biz.id:80/play/kGPHP1v1M9JXva4rlXf0GL4RyfmBcg3A6FvK4mHsMKA
+#EXTINF:-1 tvg-name="MY | beIN SPORTS 1" tvg-logo="http://hometv.biz.id:80/images/Ew7KWgEVPBJlBK0JSddniCSXgQUyeYTSUh135SFESvbPPL8rHq5gb8bpu8RxSiKkrM3G8FrJ4zsfg9wHOGlbfFzxEbLf98vJHXdv6r8a67w.png" group-title="-  VIP | ASTRO SPORTS -",MY | beIN SPORTS 1
+http://hometv.biz.id:80/play/kGPHP1v1M9JXva4rlXf0GKfPocxUN5I_OrmFtmeYenc
+#EXTINF:-1 tvg-name="MY | beIN SPORTS 2" tvg-logo="http://hometv.biz.id:80/images/Ew7KWgEVPBJlBK0JSddniCSXgQUyeYTSUh135SFESvbPPL8rHq5gb8bpu8RxSiKkrM3G8FrJ4zsfg9wHOGlbfFzxEbLf98vJHXdv6r8a67w.png" group-title="-  VIP | ASTRO SPORTS -",MY | beIN SPORTS 2
+http://hometv.biz.id:80/play/kGPHP1v1M9JXva4rlXf0GBbh080vYZs5lqoxZMuIXgw
+#EXTINF:-1 tvg-name="MY | beIN SPORTS 3" tvg-logo="http://hometv.biz.id:80/images/Ew7KWgEVPBJlBK0JSddniCSXgQUyeYTSUh135SFESvbPPL8rHq5gb8bpu8RxSiKkrM3G8FrJ4zsfg9wHOGlbfFzxEbLf98vJHXdv6r8a67w.png" group-title="-  VIP | ASTRO SPORTS -",MY | beIN SPORTS 3
+http://hometv.biz.id:80/play/kGPHP1v1M9JXva4rlXf0GMhlSDV3Ny3hSVriKZR-wdQ
+#EXTINF:-1 tvg-name="MY | SUKAN RTM" tvg-logo="http://hometv.biz.id:80/images/Ew7KWgEVPBJlBK0JSddniCSXgQUyeYTSUh135SFESvbPPL8rHq5gb8bpu8RxSiKk_VnY9rl_lcOR1S6rLS2VQQ.png" group-title="-  VIP | ASTRO SPORTS -",MY | SUKAN RTM
+http://hometv.biz.id:80/play/kGPHP1v1M9JXva4rlXf0GEPadT9rsmXAHmt4_voKrW4
+#EXTINF:-1 tvg-name="MY | ASTRO RUGBY" tvg-logo="http://hometv.biz.id:80/images/Ew7KWgEVPBJlBK0JSddniCSXgQUyeYTSUh135SFESvbPPL8rHq5gb8bpu8RxSiKk2ubKacQgvtFbrl4ZaOEW5flumsLJ235uVhDnZ7pBz_E.png" group-title="-  VIP | ASTRO SPORTS -",MY | ASTRO RUGBY
+http://hometv.biz.id:80/play/kGPHP1v1M9JXva4rlXf0GEiwD4BkJW_QNLccbmF63LI
+#EXTINF:-1 tvg-name="MY | EUROSPORTS" tvg-logo="http://hometv.biz.id:80/images/Ew7KWgEVPBJlBK0JSddniCSXgQUyeYTSUh135SFESvbPPL8rHq5gb8bpu8RxSiKkFKJAf19J5I4Q9bDitJdrFF5WT2lLI2Gq9agZrRUC-Ow.png" group-title="-  VIP | ASTRO SPORTS -",MY | EUROSPORTS
+http://hometv.biz.id:80/play/kGPHP1v1M9JXva4rlXf0GDqxCE6SiQWtTyLab3F9z4M
